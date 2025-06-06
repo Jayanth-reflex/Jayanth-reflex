@@ -28,7 +28,7 @@ I’ve reduced automation runtimes by 60% and UI response times by 35%. Basicall
 
 ## 📂 Projects
 
-Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=repositories) —  
+Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=repositories)
 
 ---
 
