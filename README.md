@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m Kolli Gnana Jayanth Reddy
+# Hi there! I’m Kolli Gnana Jayanth Reddy
 
 **Coding enthusiast, automation ninja, and part-time bug whisperer**
 
@@ -10,18 +10,17 @@ I thrive on collaboration — because great software isn’t built alone; it’s
 
 ## 🚀 Skills
 
-- **Python**
+- **Python, Java, Springboot, and Microservices**
 - **Data Structures & Algorithms**
 - **SQL & MongoDB**
 - **Automation**
-- **Security Audits**
-- **Disaster Recovery**
+- **Security Audits and Disaster Recovery**
 - **Git wizardry**
 - **Gen AI enthusiast**
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fact
 
 I’ve reduced automation runtimes by 60% and UI response times by 35%. Basically, I like making things faster — because who has time to wait?
 
@@ -30,9 +29,6 @@ I’ve reduced automation runtimes by 60% and UI response times by 35%. Basicall
 ## 📂 Projects
 
 Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=repositories) —  
-Some highlights:  
-- [Newman/Postman Automation Framework](https://github.com/Jayanth-reflex/world_disease_tracking_app)  
-- [AI-Based Recommendation Web Application](https://github.com/Jayanth-reflex/your-ai-project)
 
 ---
 
@@ -40,7 +36,3 @@ Some highlights:
 
 - Email: jayanthreddy268.jr@gmail.com  
 - LinkedIn: [Kolli Gnana Jayanth Reddy](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)  
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayanth-reflex&show_icons=true&theme=radical)
