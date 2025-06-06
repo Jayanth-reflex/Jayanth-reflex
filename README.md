@@ -8,7 +8,7 @@ I thrive on collaboration — because great software isn’t built alone; it’s
 
 ---
 
-## 🚀 Skills
+## Skills
 
 - **Python, Java, Springboot, and Microservices**
 - **Data Structures & Algorithms**
