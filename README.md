@@ -34,5 +34,5 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
 
 ## 📫 Connect with me
 
-- Email: jayanth.swe.jr@gmail.com || jayanthreddy268.jr@gmail.com  
+- Email:  jayanthreddy268.jr@gmail.com || jayanth.swe.jr@gmail.com 
 - LinkedIn: [Kolli Gnana Jayanth Reddy](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)  
