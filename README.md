@@ -1,6 +1,6 @@
-# Hi there! I’m Kolli Gnana Jayanth Reddy
+# Hi there! I’m Jayanth Reddy
 
-**Coding enthusiast, automation ninja, and part-time bug whisperer**
+**Coding enthusiast,AI and automation ninja, and part-time bug whisperer**
 
 With 3 years in the trenches of software engineering, I specialize in turning complex problems into clean, scalable solutions. Whether it’s optimizing automation frameworks, developing new features, designing robust processes, securing data flows, or leading Agile teams, I’m your go-to for making software run smoother and faster.
 
