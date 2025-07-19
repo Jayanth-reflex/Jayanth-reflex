@@ -1,7 +1,7 @@
 # Hi there! I’m Jayanth Reddy
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev+%F0%9F%9A%80;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
