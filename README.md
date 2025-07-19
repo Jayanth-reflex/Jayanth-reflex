@@ -1,48 +1,21 @@
-# 👋 Hi, I'm Jayanth Reddy
+# Hi there! I’m Jayanth Reddy
 
-**Fullstack Developer | AI & Automation Specialist | 3+ Years Experience | Open to New Opportunities**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev+%F0%9F%9A%80;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
----
-
-## 📝 About Me
-
-I'm a passionate software engineer with 3+ years of experience building scalable solutions in AI, automation, and cloud. I thrive in collaborative environments and love turning complex problems into elegant code. I'm currently seeking new opportunities to contribute my expertise and grow with innovative teams.
-
----
-
-## 🚀 Opportunities
-
-🚀 **Open to full-time, contract, or freelance opportunities. Let’s connect!**
-
-- [LinkedIn](https://linkedin.com/in/kolli-gnana-jayanth-reddy)
-- [Email](mailto:jayanthreddy268.jr@gmail.com)
-- Location: India (Open to remote/relocation)
+<p align="center">
+  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jayanthreddy268.jr@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Skills (Text-Based for SEO)
+✨ **Coding enthusiast, AI and automation ninja, and part-time bug whisperer** ✨
 
-**Languages:** Java, Python, JavaScript, TypeScript  
-**Frameworks:** Spring Boot, Django, Flask, FastAPI, React  
-**Cloud & DevOps:** AWS, Azure, Google Cloud, Docker  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Other:** Automation, AI, Data Engineering, Agile, Git, Postman
+With 3 years in the trenches of software engineering, I specialize in turning complex problems into clean, scalable solutions. Whether it’s optimizing automation frameworks, developing new features, designing robust processes, securing data flows, or leading Agile teams, I’m your go-to for making software run smoother and faster.
 
----
-
-## 🌟 Featured Projects
-
-- **Smart Automation Suite**: End-to-end automation framework for web and API testing, featuring parallel execution and reporting. *(Python, Selenium, PyTest, Docker)* [GitHub](https://github.com/Jayanth-reflex/SmartAutomationSuite)
-- **AI-Powered Chatbot**: Context-aware chatbot for customer support, integrating NLP and cloud deployment. *(Python, FastAPI, AWS, HuggingFace)* [GitHub](https://github.com/Jayanth-reflex/AI-Chatbot)
-- **Cloud Cost Optimizer**: Tool to analyze and optimize cloud resource usage, reducing costs for enterprises. *(Node.js, AWS, React)* [GitHub](https://github.com/Jayanth-reflex/CloudCostOptimizer)
-
----
-
-## 🏆 Achievements & Certifications
-
-- AWS Certified Solutions Architect
-- Winner, XYZ Hackathon 2023
-- Recognized as Top Performer at ABC Corp (2022)
+I thrive on collaboration — because great software isn’t built alone; it’s built over countless cups of coffee and creative brainstorming sessions. When I’m not coding, you’ll find me debugging life’s mysteries or mountaineering.
 
 ---
 
