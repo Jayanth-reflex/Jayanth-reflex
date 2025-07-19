@@ -32,11 +32,6 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
 
 ---
 
-## 📫 Connect with me
-
-- Email:  jayanthreddy268.jr@gmail.com || jayanth.swe.jr@gmail.com 
-- LinkedIn: [Kolli Gnana Jayanth Reddy](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)
-
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -113,3 +108,10 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
 </table>
 <br><br>
 </div>
+
+---
+
+## 📫 Connect with me
+
+- Email:  jayanthreddy268.jr@gmail.com || jayanth.swe.jr@gmail.com 
+- LinkedIn: [Kolli Gnana Jayanth Reddy](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)
