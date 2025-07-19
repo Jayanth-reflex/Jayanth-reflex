@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev+%F0%9F%9A%80;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jayanthreddy268.jr@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+</p>
+
 ---
 
 ✨ **Coding enthusiast, AI and automation ninja, and part-time bug whisperer** ✨
@@ -100,10 +105,3 @@ I thrive on collaboration — because great software isn’t built alone; it’s
 ## 📂 Projects
 
 [![Explore my repositories](https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?logo=github&logoColor=white)](https://github.com/Jayanth-reflex?tab=repositories)
-
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jayanthreddy268.jr@gmail.com)
