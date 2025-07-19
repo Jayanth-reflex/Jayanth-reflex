@@ -135,7 +135,10 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <br>Google Cloud
   </td>
   <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/github.png" />
+      <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/github.png" alt="Github" />
+    </picture>
     <br>Github
   </td>
   <td align="center" width="96"> 
@@ -156,12 +159,18 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <br>Docker
   </td>
   <td align="center" width="96">
-    <img src="https://ollama.com/public/ollama.png" width="48" height="48" alt="Ollama" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" />
+      <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" alt="Ollama" />
+    </picture>
     <br>Ollama
   </td>
   <td align="center" width="96">
-    <img src="https://avatars.githubusercontent.com/u/141471190?s=200&v=4" width="48" height="48" alt="LM Studio" />
-    <br>LM Studio
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/aistudio.png" />
+      <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/aistudio.png" alt="AI Studio" />
+    </picture>
+    <br>AI Studio
   </td>
 </tr></table>
 <br><br>
