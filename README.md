@@ -151,6 +151,18 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
     <br>Postman
   </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://ollama.com/public/ollama.png" width="48" height="48" alt="Ollama" />
+    <br>Ollama
+  </td>
+  <td align="center" width="96">
+    <img src="https://avatars.githubusercontent.com/u/141471190?s=200&v=4" width="48" height="48" alt="LM Studio" />
+    <br>LM Studio
+  </td>
 </tr></table>
 <br><br>
 </div>
