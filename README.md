@@ -39,10 +39,8 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
-
-<!-- Languages & Programming -->
-<h4>Languages & Programming</h4>
 <table align="center"><tr>
+  <!-- Languages & Programming -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
     <br>Java
@@ -67,11 +65,7 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" />
     <br>C++
   </td>
-</tr></table>
-
-<!-- Frameworks & Libraries -->
-<h4>Frameworks & Libraries</h4>
-<table align="center"><tr>
+  <!-- Frameworks & Libraries -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" />
     <br>Spring Boot
@@ -92,11 +86,7 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
     <br>React
   </td>
-</tr></table>
-
-<!-- Frontend Tools -->
-<h4>Frontend Tools</h4>
-<table align="center"><tr>
+  <!-- Frontend Tools -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
     <br>HTML5
@@ -117,11 +107,7 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
     <br>jQuery
   </td>
-</tr></table>
-
-<!-- Backend Tools -->
-<h4>Backend Tools</h4>
-<table align="center"><tr>
+  <!-- Backend Tools -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
     <br>Nodejs
@@ -138,11 +124,7 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/NotebookLM_Logo.png" width="48" height="48" alt="NotebookLM" />
     <br>NotebookLM
   </td>
-</tr></table>
-
-<!-- Databases -->
-<h4>Databases</h4>
-<table align="center"><tr>
+  <!-- Databases -->
   <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
     <br>MySQL
@@ -155,11 +137,7 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
     <br>PostgreSQL
   </td>
-</tr></table>
-
-<!-- DevOps / Cloud -->
-<h4>DevOps / Cloud</h4>
-<table align="center"><tr>
+  <!-- DevOps / Cloud -->
   <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
     <br>AWS
@@ -180,11 +158,7 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
     <br>Git
   </td>
-</tr></table>
-
-<!-- Other Tools -->
-<h4>Other Tools</h4>
-<table align="center"><tr>
+  <!-- Other Tools -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
     <br>VSCode
@@ -194,6 +168,5 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <br>Postman
   </td>
 </tr></table>
-
 <br><br>
 </div>
