@@ -39,125 +39,67 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
 
 </details>
 
-# 💻 My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+# 💻 My Favorite Tools & Technologies
+
+## 🧑‍💻 Languages & Core Skills
+<table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" width="48" height="48" alt="Dataloader" />
-      <br>Dataloader
-    </td>
-    <td align="center" width="96">
-        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Cursor" />
-      <br>Cursor
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/NotebookLM_Logo.png" width="48" height="48" alt="NotebookLM" />
-      <br>NotebookLM
-    </td>
-    <td align="center" width="96">
-        <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="48" height="48" alt="Vertex AI" />
-      <br>Vertex AI
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Gemini_logo.svg" width="48" height="48" alt="Gemini" />
-      <br>Gemini
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
   </tr>
 </table>
-<br><br>
 
+## 🚀 Frameworks & Libraries
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td>
+  </tr>
+</table>
 
-</div>
+## 🎨 Frontend Styling
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" width="48"/><br>Webpack</td>
+  </tr>
+</table>
+
+## 🗃️ Databases
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td>
+  </tr>
+</table>
+
+## ☁️ Cloud & DevOps
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/NotebookLM_Logo.png" width="48"/><br>NotebookLM</td>
+    <td align="center"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="48"/><br>Vertex AI</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Gemini_logo.svg" width="48"/><br>Gemini</td>
+  </tr>
+</table>
+
+## 🧰 Tools & Utilities
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br>Postman</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" width="48"/><br>Dataloader</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48"/><br>Cursor</td>
+  </tr>
+</table>
