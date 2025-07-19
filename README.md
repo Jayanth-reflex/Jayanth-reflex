@@ -27,10 +27,6 @@ I'm a passionate software engineer with 2+ years of experience building scalable
 **Databases:** MySQL, MongoDB, PostgreSQL  
 **Other:** Automation, AI, Data Engineering, Agile, Git, Postman
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
-</p>
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
