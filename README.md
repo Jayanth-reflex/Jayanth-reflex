@@ -1,6 +1,12 @@
 # Hi there! I’m Jayanth Reddy
 
-**Coding enthusiast,AI and automation ninja, and part-time bug whisperer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+✨ **Coding enthusiast, AI and automation ninja, and part-time bug whisperer** ✨
 
 With 3 years in the trenches of software engineering, I specialize in turning complex problems into clean, scalable solutions. Whether it’s optimizing automation frameworks, developing new features, designing robust processes, securing data flows, or leading Agile teams, I’m your go-to for making software run smoother and faster.
 
@@ -8,31 +14,12 @@ I thrive on collaboration — because great software isn’t built alone; it’s
 
 ---
 
-## Skills
+## 🚀 Skills & Tech Stack
 
-- **Python, Java, Springboot, and Microservices**
-- **Data Structures & Algorithms**
-- **SQL & MongoDB**
-- **Automation**
-- **Security Audits and Disaster Recovery**
-- **Git wizardry**
-- **Gen AI enthusiast**
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
+</p>
 
----
-
-### ⚡ Fact
-
-I’ve reduced automation runtimes by 60% and UI response times by 35%. Basically, I like making things faster — because who has time to wait?
-
----
-
-## 📂 Projects
-
-Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=repositories)
-
----
-
-# 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -106,12 +93,17 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br>Postman</td>
   </tr>
 </table>
-<br><br>
 </div>
+
+---
+
+## 📂 Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jayanth-reflex&repo=YOUR_REPO_NAME)](https://github.com/Jayanth-reflex/YOUR_REPO_NAME)
 
 ---
 
 ## 📫 Connect with me
 
-- Email:  jayanthreddy268.jr@gmail.com || jayanth.swe.jr@gmail.com 
-- LinkedIn: [Kolli Gnana Jayanth Reddy](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kolli-gnana-jayanth-reddy/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jayanthreddy268.jr@gmail.com)
