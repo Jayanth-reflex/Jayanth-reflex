@@ -136,10 +136,6 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/newmanjs/newman/develop/assets/newman-logo.svg" width="48" height="48" alt="Newman CLI" />
-      <br>Newman CLI
-    </td>
-    <td align="center" width="96">
         <img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" width="48" height="48" alt="Dataloader" />
       <br>Dataloader
     </td>
@@ -148,12 +144,8 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
       <br>Cursor
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Visual_Basic_Logo.png" width="48" height="48" alt="VBA Macros" />
-      <br>VBA Macros
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013_logo.svg" width="48" height="48" alt="MS Office" />
-      <br>MS Office
+        <img src="https://www.soapui.org/images/soapui-icon.png" width="48" height="48" alt="SoapUI" />
+      <br>SoapUI
     </td>
   </tr>
 </table>
