@@ -99,7 +99,7 @@ I thrive on collaboration — because great software isn’t built alone; it’s
 
 ## 📂 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jayanth-reflex&repo=YOUR_REPO_NAME)](https://github.com/Jayanth-reflex/YOUR_REPO_NAME)
+[![Explore my repositories](https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?logo=github&logoColor=white)](https://github.com/Jayanth-reflex?tab=repositories)
 
 ---
 
