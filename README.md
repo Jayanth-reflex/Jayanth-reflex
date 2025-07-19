@@ -57,14 +57,6 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
     <br>TypeScript
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="65" height="65" />
-    <br>C#
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" />
-    <br>C++
-  </td>
   <!-- Frameworks & Libraries -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" />
@@ -103,10 +95,6 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
     <br>Tailwind
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-    <br>jQuery
-  </td>
   <!-- Backend Tools -->
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
@@ -119,10 +107,6 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
   <td align="center" width="96">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Cursor" />
     <br>Cursor
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/NotebookLM_Logo.png" width="48" height="48" alt="NotebookLM" />
-    <br>NotebookLM
   </td>
   <!-- Databases -->
   <td align="center" width="96">
