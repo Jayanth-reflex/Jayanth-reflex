@@ -144,8 +144,16 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
       <br>Cursor
     </td>
     <td align="center" width="96">
-        <img src="https://www.soapui.org/images/soapui-icon.png" width="48" height="48" alt="SoapUI" />
-      <br>SoapUI
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/NotebookLM_Logo.png" width="48" height="48" alt="NotebookLM" />
+      <br>NotebookLM
+    </td>
+    <td align="center" width="96">
+        <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="48" height="48" alt="Vertex AI" />
+      <br>Vertex AI
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Gemini_logo.svg" width="48" height="48" alt="Gemini" />
+      <br>Gemini
     </td>
   </tr>
 </table>
