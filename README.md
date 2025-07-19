@@ -127,6 +127,34 @@ Feel free to explore my [GitHub projects](https://github.com/Jayanth-reflex?tab=
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/newmanjs/newman/develop/assets/newman-logo.svg" width="48" height="48" alt="Newman CLI" />
+      <br>Newman CLI
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" width="48" height="48" alt="Dataloader" />
+      <br>Dataloader
+    </td>
+    <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Cursor" />
+      <br>Cursor
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Visual_Basic_Logo.png" width="48" height="48" alt="VBA Macros" />
+      <br>VBA Macros
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2013_logo.svg" width="48" height="48" alt="MS Office" />
+      <br>MS Office
+    </td>
   </tr>
 </table>
 <br><br>
