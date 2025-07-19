@@ -21,84 +21,39 @@ I thrive on collaboration — because great software isn’t built alone; it’s
 
 ## 🚀 Skills & Tech Stack
 
+---
+
+### Option 1: Animated Tech Stack Banner
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=My+Skills+%26+Tech+Stack" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,django,flask,fastapi,react,html,css,bootstrap,tailwind,nodejs,mysql,mongodb,postgres,aws,azure,gcp,docker,github,vscode,postman" />
 </p>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" /><br>Java</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" /><br>Spring Boot</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" /><br>Django</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" /><br>Flask</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" /><br>Nodejs</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" width="48" height="48" alt="Dataloader" /><br>Dataloader</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Cursor" /><br>Cursor</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br>Azure</td>
-    <td align="center" width="96"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/huggingface.png" alt="HuggingFace" />
-      </picture>
-      <br>HuggingFace
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openrouter.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openrouter.png" alt="OpenRouter" />
-      </picture>
-      <br>OpenRouter
-    </td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" alt="Ollama" />
-      </picture>
-      <br>Ollama
-    </td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/aistudio.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/aistudio.png" alt="AI Studio" />
-      </picture>
-      <br>AI Studio
-    </td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/github.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/github.png" alt="Github" />
-      </picture>
-      <br>Github
-    </td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" /><br>VSCode</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br>Postman</td>
-  </tr>
-</table>
-</div>
+---
+
+### Option 2: Animated GIF with Overlayed Skills (HTML/CSS platforms only)
+
+<!-- Note: Overlay effect works only on platforms that support HTML/CSS in markdown (not GitHub) -->
+<p align="center" style="position: relative;">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" style="border-radius: 16px;"/>
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; font-size: 1.5em; font-weight: bold; background: rgba(0,0,0,0.5); padding: 8px 16px; border-radius: 8px;">
+    Java | Python | JS | Cloud | AI | DevOps
+  </span>
+</p>
+
+---
+
+### Option 3: Modern Centered GIF with Caption
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" />
+</p>
+<p align="center">
+  <b>Turning ideas into reality with code, cloud, and creativity 🚀</b>
+</p>
 
 ---
 
