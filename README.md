@@ -15,7 +15,7 @@
 
 ## 📝 About Me
 
-I'm a passionate software engineer with 2+ years of experience building scalable solutions in backend services, AI, automation, and cloud. I thrive in collaborative environments and love turning complex problems into elegant code. I'm currently seeking new opportunities to contribute my expertise and grow with innovative teams.
+I'm a passionate software engineer with over 2 years of experience building scalable solutions in backend services, AI, automation, and cloud computing. I thrive in collaborative environments and love turning complex problems into elegant code. I'm currently seeking new opportunities to contribute my expertise and grow with innovative teams.
 
 ---
 
@@ -106,4 +106,4 @@ I'm a passionate software engineer with 2+ years of experience building scalable
 
 ## 📂 Projects
 
-[![Explore my repositories](https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?logo=github&logoColor=white)](https://github.com/Jayanth-reflex?tab=repositories)
+[![Explore my repositories](https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?logo=github&logoColor=white)](https://github.com/Jayanth-reflex?tab=repositories) 
