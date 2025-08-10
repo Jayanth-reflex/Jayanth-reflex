@@ -1,6 +1,6 @@
 # Hi, I'm Jayanth Reddy
 
-**Fullstack Developer | AI & Automation Specialist | 2+ Years Experience | Open to New Opportunities**
+**Fullstack Developer | AI & Automation Specialist | 3 Years Experience | Open to New Opportunities**
 
 <p align="center">
   <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
