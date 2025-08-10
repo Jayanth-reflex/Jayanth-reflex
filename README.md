@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jayanth Reddy
+# Hi, I'm Jayanth Reddy
 
 **Fullstack Developer | AI & Automation Specialist | 2+ Years Experience | Open to New Opportunities**
 
