@@ -25,7 +25,7 @@ I'm a passionate software engineer with 3 years of experience building scalable 
 **Frameworks:** Spring Boot, Django, Flask, FastAPI, React  
 **Cloud & DevOps:** AWS, Azure, Google Cloud, Docker  
 **Databases:** MySQL, MongoDB, PostgreSQL  
-**Other:** Automation, AI, Data Engineering, Agile, Git, Postman
+**Other:** Automation, Agentic AI, Git, Postman
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
