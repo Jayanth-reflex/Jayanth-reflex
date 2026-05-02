@@ -26,6 +26,20 @@
 
 ---
 
+## 🛠 Stack
+
+<table>
+  <tr><td><b>Languages</b></td><td>Python · TypeScript · Java · SQL · Bash</td></tr>
+  <tr><td><b>LLM / ML</b></td><td>PyTorch · HuggingFace · vLLM · LangChain · PEFT / LoRA · ROCm</td></tr>
+  <tr><td><b>Backend</b></td><td>FastAPI · Spring Boot · Node.js · Django · Flask</td></tr>
+  <tr><td><b>Frontend</b></td><td>Next.js · React · TypeScript · TailwindCSS</td></tr>
+  <tr><td><b>Data</b></td><td>PostgreSQL · MongoDB · Redis · MySQL</td></tr>
+  <tr><td><b>Infra</b></td><td>Docker · Kubernetes · AWS · GCP · Azure · Terraform · GitHub Actions</td></tr>
+  <tr><td><b>Tools</b></td><td>Cursor · Claude Code · VS Code · Postman · Linux</td></tr>
+</table>
+
+---
+
 ## ⚡ Currently Building
 
 <table>
@@ -70,67 +84,6 @@ Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visu
 </td>
   </tr>
 </table>
-
----
-
-## 🛠 Stack
-
-<table>
-  <tr><td><b>Languages</b></td><td>Python · TypeScript · Java · SQL · Bash</td></tr>
-  <tr><td><b>LLM / ML</b></td><td>PyTorch · HuggingFace · vLLM · LangChain · PEFT / LoRA · ROCm</td></tr>
-  <tr><td><b>Backend</b></td><td>FastAPI · Spring Boot · Node.js · Django · Flask</td></tr>
-  <tr><td><b>Frontend</b></td><td>Next.js · React · TypeScript · TailwindCSS</td></tr>
-  <tr><td><b>Data</b></td><td>PostgreSQL · MongoDB · Redis · MySQL</td></tr>
-  <tr><td><b>Infra</b></td><td>Docker · Kubernetes · AWS · GCP · Azure · Terraform · GitHub Actions</td></tr>
-  <tr><td><b>Tools</b></td><td>Cursor · Claude Code · VS Code · Postman · Linux</td></tr>
-</table>
-
----
-
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <a href="https://github.com/Jayanth-reflex">
-    <img alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth-reflex&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C4FF&line=6E40C9&point=00C4FF&area=true&area_color=6E40C9&radius=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jayanth-reflex">
-    <img height="185" alt="profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayanth-reflex&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Jayanth-reflex">
-    <img height="185" alt="repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayanth-reflex&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jayanth-reflex">
-    <img alt="streak stats" src="https://streak-stats.demolab.com?user=Jayanth-reflex&theme=tokyonight&hide_border=true&background=00000000&ring=00C4FF&fire=6E40C9&currStreakLabel=00C4FF" />
-  </a>
-</p>
-
----
-
-## 🧊 Contributions in 3D
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3D contribution skyline" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
-  </picture>
-</p>
-
-## 🐍 Snake Eats the Grid
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
