@@ -20,16 +20,19 @@
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
 ```ts
-// Jayanth Reddy · Fullstack Engineer · 3+ yrs
-// ─────────────────────────────────────────────
-// Working at the LLM × infrastructure layer.
+// Jayanth Reddy · Fullstack Engineer · 3+ years
+// ──────────────────────────────────────────────
+// I work at the intersection of large language
+// models (LLMs) and backend infrastructure.
 //
-// Currently fine-tuning Qwen3.6-35B-A3B on AMD MI300X.
-// Heretic-abliterated to 0/465 refusals.
-// Safety enforced at the application layer.
-
-const optimizingFor = ["latency", "cost", "correctness"] as const;
-const avoiding      = "trade-offs that bite at 6 months";
+// Currently fine-tuning Qwen3.6-35B-A3B (a 35-billion
+// parameter language model) on AMD MI300X GPUs.
+// Achieved zero refusals across 465 safety tests via
+// heretic-abliteration, with safety policies enforced
+// at the application layer.
+//
+// I optimize for latency, cost, and correctness,
+// without the trade-offs that bite you in 6 months.
 ```
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
@@ -37,13 +40,13 @@ const avoiding      = "trade-offs that bite at 6 months";
 ### ▎ Stack
 
 ```yaml
-languages: Python · TypeScript · Java · SQL · Bash
-ml/llm:    PyTorch · HuggingFace · vLLM · LangChain · PEFT/LoRA · ROCm
-backend:   FastAPI · Spring Boot · Node.js · Django · Flask
-frontend:  Next.js · React · TypeScript · TailwindCSS
-data:      PostgreSQL · MongoDB · Redis · MySQL
-infra:     Docker · Kubernetes · AWS · GCP · Azure · Terraform · GH Actions
-tools:     Cursor · Claude Code · VS Code · Postman · Linux
+languages:  Python · TypeScript · Java · SQL · Bash
+ai/ml:      PyTorch · HuggingFace · vLLM · LangChain · PEFT/LoRA · ROCm
+backend:    FastAPI · Spring Boot · Node.js · Django · Flask
+frontend:   Next.js · React · TypeScript · TailwindCSS
+databases:  PostgreSQL · MongoDB · Redis · MySQL
+devops:     Docker · Kubernetes · AWS · GCP · Azure · Terraform · GH Actions
+tools:      Cursor · Claude Code · VS Code · Postman · Linux
 ```
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
@@ -52,25 +55,25 @@ tools:     Cursor · Claude Code · VS Code · Postman · Linux
 
 <pre>
 ▸ <a href="https://github.com/Jayanth-reflex/amd-hackathon-2026"><b>amd-hackathon-2026</b></a>
-  Qwen3.6-35B-A3B fine-tune on AMD MI300X.
-  Heretic-abliterated to 0/465 refusals; safety at the app
-  layer via Llama-Guard-3-1B + YAML policy.
+  Specialized fine-tune of Qwen3.6-35B-A3B (a 35B-parameter LLM)
+  on AMD MI300X GPUs. Zero refusals across 465 safety tests via
+  heretic-abliteration; policies enforced at the application layer.
   <i>python · rocm · vllm · peft · lora</i>
 
 ▸ <a href="https://github.com/Jayanth-reflex/llm-abliteration-quantization"><b>llm-abliteration-quantization</b></a>
-  Research on safe abliteration + post-training quantization
-  (GPTQ, AWQ, GGUF). Open source tooling, evals, recipes.
+  Research on safe model abliteration and post-training quantization
+  (GPTQ, AWQ, GGUF formats). Open-source tooling, evaluations, recipes.
   <i>python · transformers · bitsandbytes · llama.cpp</i>
 
 ▸ <a href="https://github.com/Jayanth-reflex/ai-agent-chatbot"><b>ai-agent-chatbot</b></a>
-  Production-grade agentic chatbot. Typed tool-use, durable
-  memory, streaming UI. Provider-agnostic runtime
-  (OpenRouter / Ollama / Anthropic).
+  Production-grade agentic AI chatbot with typed tool calls, persistent
+  memory, and streaming responses. Works with multiple AI providers
+  (OpenRouter, Ollama, Anthropic).
   <i>typescript · next.js · vercel ai sdk</i>
 
 ▸ <a href="https://github.com/Jayanth-reflex/global-disease-tracker"><b>global-disease-tracker</b></a>
-  Real-time epidemiological dashboard pulling WHO / JHU
-  feeds. Geospatial visualization and trend forecasting.
+  Real-time disease tracking dashboard pulling WHO and Johns Hopkins
+  data feeds. Geospatial visualization with trend forecasting.
   <i>typescript · react · d3 · mapbox</i>
 </pre>
 
@@ -79,9 +82,12 @@ tools:     Cursor · Claude Code · VS Code · Postman · Linux
 ### ▎ Hire Me
 
 ```yaml
-status:    open · senior / staff IC
-looking:   [Applied AI/LLM infra, Backend platforms, Developer tooling]
-response:  < 24 hours
+status:    open to senior / staff engineer roles (individual contributor)
+looking:
+  - Applied AI / LLM infrastructure
+  - Backend platforms (Python / Java)
+  - Developer tooling & agentic systems
+response:  within 24 hours
 ```
 
 <p align="center">
