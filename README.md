@@ -13,8 +13,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jayanth-reflex?tab=repositories"><img src="https://img.shields.io/badge/Projects-50%2B-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Jayanth-reflex&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -36,29 +34,27 @@ const jayanth = {
 
 ---
 
-## 🧊 My Year in 3D
+## 🧊 Isometric Skyline
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="3D contribution chart" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution skyline" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
   </picture>
 </p>
 
-> _Isometric contribution skyline rendered by [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) — regenerates daily._
-
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Snake Eats the Grid
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> _Generated nightly by a [GitHub Action](https://github.com/Platane/snk) — zero maintenance, infinite delight._
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -205,4 +201,25 @@ I'm currently **open to senior / staff engineering roles** in:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" alt="footer" />
 
-<p align="center"><sub>⚙️  Crafted with care · last refresh <code>2026-05</code> · <a href="https://github.com/Jayanth-reflex/Jayanth-reflex">view source</a></sub></p>
+<!--
+═══════════════════════════════════════════════════════════════════════════════
+ONE-TIME SETUP so the snake + 3D animations actually render
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Push this branch and merge to `main`.
+
+2. Repo → Settings → Actions → General → "Workflow permissions"
+   ✅ Select "Read and write permissions"
+   ✅ Check "Allow GitHub Actions to create and approve pull requests"
+   (without this, the actions can't push the generated SVGs back to the repo)
+
+3. Repo → Actions tab → run each workflow once manually:
+     • "Generate Snake Animation"        → publishes SVGs to the `output` branch
+     • "GitHub-Profile-3D-Contrib"       → commits SVGs to `profile-3d-contrib/`
+
+4. Refresh your profile. Both visuals will render and refresh nightly.
+
+If an image still 404s after the workflow succeeds, double-check the path in the
+action's run logs — the file names there are the source of truth.
+═══════════════════════════════════════════════════════════════════════════════
+-->
