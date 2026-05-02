@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=860&lines=Fine-tuning+frontier+LLMs+on+AMD+MI300X+%E2%9A%A1;Building+agentic+systems+that+handle+real+load;Full+stack+%E2%80%94+from+frontend+pixels+to+GPU+kernels;Open+to+senior+%2F+staff+IC+roles+%F0%9F%9A%80" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=860&lines=Fine-tuning+frontier+LLMs+on+AMD+MI300X+%E2%9A%A1;Building+agentic+systems+that+handle+real+load;Full+stack+%C2%B7+from+frontend+pixels+to+GPU+kernels;Open+to+senior+%2F+staff+IC+roles+%F0%9F%9A%80" alt="typing" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
----
+<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
 <table align="center">
   <tr>
@@ -25,15 +25,15 @@
 
 **Fullstack engineer (3+ yrs)** · working at the **LLM × infrastructure** layer
 
-Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs — heretic-abliterated to **0/465 refusals**, with safety enforced at the application layer.
+Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs. Heretic-abliterated to **0/465 refusals**, with safety enforced at the application layer.
 
-<sub><i>Care about latency, cost, and correctness — without the trade-offs that bite you in 6 months.</i></sub>
+<sub><i>Care about latency, cost, and correctness, without the trade-offs that bite you in 6 months.</i></sub>
 
 </td>
   </tr>
 </table>
 
----
+<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
 ## 🛠 Stack
 
@@ -111,7 +111,7 @@ Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs — heretic-abl
   </tr>
 </table>
 
----
+<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
 ## ⚡ Currently Building
 
@@ -136,7 +136,7 @@ Domain-specialized **Qwen3.6-35B-A3B** fine-tune on **AMD MI300X**. Heretic-abli
 
 ### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
 
-Research on **safe abliteration** + **post-training quantization** (GPTQ, AWQ, GGUF). Tooling, evals, and reproducible recipes — open source.
+Research on **safe abliteration** + **post-training quantization** (GPTQ, AWQ, GGUF). Tooling, evals, and reproducible recipes. Open source.
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -178,7 +178,7 @@ Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visu
   </tr>
 </table>
 
----
+<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
 ## 🤝 Hire Me
 
@@ -201,7 +201,7 @@ Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visu
   </tr>
 </table>
 
-<p align="center"><sub>Fastest way to reach me — I respond within 24 hours:</sub></p>
+<p align="center"><sub>Fastest way to reach me. I respond within 24 hours:</sub></p>
 
 <p align="center">
   <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/✉_jayanth.sde.fsd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email cta" /></a>
