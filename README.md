@@ -1,51 +1,64 @@
+<!-- ─────────────────────────────────────────────────────────────────────────── -->
+<!--                            HEADER · GRADIENT BANNER                         -->
+<!-- ─────────────────────────────────────────────────────────────────────────── -->
+
+<a href="https://github.com/Jayanth-reflex">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Jayanth%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20LLM%20Systems&descAlignY=58&descSize=18&animation=twinkling" alt="header" />
+</a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F7A41D&center=true&vCenter=true&width=820&lines=Shipping+production+AI+at+the+edge+of+the+stack;Fine-tuning+LLMs+on+AMD+MI300X+%E2%9A%A1;Building+agentic+systems+that+actually+work;Open+to+staff+%2F+senior+engineering+roles+%F0%9F%9A%80" alt="typing" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jayanth-reflex?tab=repositories"><img src="https://img.shields.io/badge/Projects-50%2B-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jayanth-reflex&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## ⚡ Currently Building
+## whoami
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+```ts
+const jayanth = {
+  role:        "Fullstack Developer · AI & Automation Engineer",
+  experience:  "3+ years shipping production systems",
+  location:    "India  ·  remote-friendly  ·  open to relocation",
+  focus:       ["Agentic AI", "LLM fine-tuning & quantization", "Cloud-native backends"],
+  currently:   "Fine-tuning Qwen3.6-35B-A3B on AMD MI300X GPUs",
+  learning:    ["Triton kernels", "vLLM internals", "RLHF / DPO pipelines"],
+  philosophy:  "Boring tech for the load-bearing parts. Bleeding-edge for the leverage.",
+  status:      "🟢 Open to senior / staff engineering opportunities",
+};
+```
 
-### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
-**Domain-specialized Qwen3.6-35B-A3B** fine-tune on AMD MI300X.
-Heretic-abliterated to **0/465 refusals**, with policy enforced
-at the application layer via Llama-Guard-3-1B + YAML rules.
+---
 
-`Python` · `ROCm` · `vLLM` · `PEFT` · `LoRA`
+## 🧊 My Year in 3D
 
-</td>
-    <td width="50%" valign="top">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution chart" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/main/profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+</p>
 
-### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
-Research repo on **safe abliteration** + **post-training quantization**
-(GPTQ, AWQ, GGUF) — tooling, evals, and reproducible recipes.
+> _Isometric contribution skyline rendered by [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) — regenerates daily._
 
-`Python` · `transformers` · `bitsandbytes` · `llama.cpp`
+---
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+## 🐍 Watch My Contributions Get Eaten
 
-### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
-Production-grade **agentic chatbot** with tool-use, memory,
-and streaming UI. Provider-agnostic (OpenRouter / Ollama).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
+</picture>
 
-`TypeScript` · `Next.js` · `Vercel AI SDK`
-
-</td>
-    <td width="50%" valign="top">
-
-### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
-Real-time epidemiological dashboard pulling WHO/JHU feeds with
-geospatial visualization and trend forecasting.
-
-`TypeScript` · `React` · `D3` · `Mapbox`
-
-</td>
-  </tr>
-</table>
+> _Generated nightly by a [GitHub Action](https://github.com/Platane/snk) — zero maintenance, infinite delight._
 
 ---
 
@@ -118,18 +131,6 @@ geospatial visualization and trend forecasting.
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> _Generated nightly by a [GitHub Action](https://github.com/Platane/snk) — zero maintenance, infinite delight._
-
----
-
 ## 💭 Engineering Principles
 
 > **Read more code than you write.** The codebase is the source of truth; READMEs lie.
@@ -139,6 +140,54 @@ geospatial visualization and trend forecasting.
 > **Latency is a feature.** Every millisecond is a vote of respect for the user.
 >
 > **Ship the smallest reversible change.** Big PRs hide bugs; small PRs reveal them.
+
+---
+
+## ⚡ Currently Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
+**Domain-specialized Qwen3.6-35B-A3B** fine-tune on AMD MI300X.
+Heretic-abliterated to **0/465 refusals**, with policy enforced
+at the application layer via Llama-Guard-3-1B + YAML rules.
+
+`Python` · `ROCm` · `vLLM` · `PEFT` · `LoRA`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
+Research repo on **safe abliteration** + **post-training quantization**
+(GPTQ, AWQ, GGUF) — tooling, evals, and reproducible recipes.
+
+`Python` · `transformers` · `bitsandbytes` · `llama.cpp`
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
+Production-grade **agentic chatbot** with tool-use, memory,
+and streaming UI. Provider-agnostic (OpenRouter / Ollama).
+
+`TypeScript` · `Next.js` · `Vercel AI SDK`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
+Real-time epidemiological dashboard pulling WHO/JHU feeds with
+geospatial visualization and trend forecasting.
+
+`TypeScript` · `React` · `D3` · `Mapbox`
+
+</td>
+  </tr>
+</table>
 
 ---
 
