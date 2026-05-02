@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayanth-reflex&label=Profile%20views&color=0a66c2&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Jayanth-reflex?label=Followers&style=flat-square&color=0a66c2" alt="followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20senior%20%2F%20staff%20IC%20roles-22c55e?style=flat-square" alt="status" />
   <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/-jayanth.sde.fsd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
