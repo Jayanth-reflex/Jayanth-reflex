@@ -3,7 +3,7 @@
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/Jayanth-reflex">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=210&section=header&text=Jayanth%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%C2%B7%20AI%20%26%20Infrastructure&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=210&section=header&text=Jayanth%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%C2%B7%20AI%20%C2%B7%20Infrastructure&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
