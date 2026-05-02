@@ -1,109 +1,159 @@
-# Hi, I'm Jayanth Reddy
-
-**Fullstack Developer | AI & Automation Specialist | 3 Years Experience | Open to New Opportunities**
-
-<p align="center">
-  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev+%F0%9F%9A%80;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
 
 ---
 
-## 📝 About Me
+## ⚡ Currently Building
 
-I'm a passionate software engineer with 3 years of experience building scalable solutions in backend services, AI, automation, and cloud services. I thrive in collaborative environments and love turning complex problems into elegant code. I'm currently seeking new opportunities to contribute my expertise and grow with innovative teams.
-
----
-
-## 🚀 Skills & Tech Stack
-
-**Languages:** Java, Python, JavaScript, TypeScript  
-**Frameworks:** Spring Boot, Django, Flask, FastAPI, React  
-**Cloud & DevOps:** AWS, Azure, Google Cloud, Docker  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Other:** Automation, Agentic AI, Git, Postman
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" /><br>Java</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" /><br>Spring Boot</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" /><br>Django</td>
+    <td width="50%" valign="top">
+
+### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
+**Domain-specialized Qwen3.6-35B-A3B** fine-tune on AMD MI300X.
+Heretic-abliterated to **0/465 refusals**, with policy enforced
+at the application layer via Llama-Guard-3-1B + YAML rules.
+
+`Python` · `ROCm` · `vLLM` · `PEFT` · `LoRA`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
+Research repo on **safe abliteration** + **post-training quantization**
+(GPTQ, AWQ, GGUF) — tooling, evals, and reproducible recipes.
+
+`Python` · `transformers` · `bitsandbytes` · `llama.cpp`
+
+</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" /><br>Flask</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" /><br>Nodejs</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" width="48" height="48" alt="Dataloader" /><br>Dataloader</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Cursor" /><br>Cursor</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br>Azure</td>
-    <td align="center" width="96"><img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/huggingface.png" alt="HuggingFace" />
-      </picture>
-      <br>HuggingFace
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openrouter.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openrouter.png" alt="OpenRouter" />
-      </picture>
-      <br>OpenRouter
-    </td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" alt="Ollama" />
-      </picture>
-      <br>Ollama
-    </td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/aistudio.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/aistudio.png" alt="AI Studio" />
-      </picture>
-      <br>AI Studio
-    </td>
-    <td align="center" width="96">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/github.png" />
-        <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/github.png" alt="Github" />
-      </picture>
-      <br>Github
-    </td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" /><br>VSCode</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br>Postman</td>
+    <td width="50%" valign="top">
+
+### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
+Production-grade **agentic chatbot** with tool-use, memory,
+and streaming UI. Provider-agnostic (OpenRouter / Ollama).
+
+`TypeScript` · `Next.js` · `Vercel AI SDK`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
+Real-time epidemiological dashboard pulling WHO/JHU feeds with
+geospatial visualization and trend forecasting.
+
+`TypeScript` · `React` · `D3` · `Mapbox`
+
+</td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+#### Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+#### AI / ML / LLM Stack
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6E40C9?style=for-the-badge&logo=openrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+#### Cloud, DevOps & Infra
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+#### Data Layer
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 </div>
 
 ---
 
-## 📂 Projects
+## 🐍 Watch My Contributions Get Eaten
 
-[![Explore my repositories](https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?logo=github&logoColor=white)](https://github.com/Jayanth-reflex?tab=repositories) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jayanth-reflex/Jayanth-reflex/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> _Generated nightly by a [GitHub Action](https://github.com/Platane/snk) — zero maintenance, infinite delight._
+
+---
+
+## 💭 Engineering Principles
+
+> **Read more code than you write.** The codebase is the source of truth; READMEs lie.
+>
+> **Optimize for the next engineer.** That engineer is usually you in six months — and you have amnesia.
+>
+> **Latency is a feature.** Every millisecond is a vote of respect for the user.
+>
+> **Ship the smallest reversible change.** Big PRs hide bugs; small PRs reveal them.
+
+---
+
+## 🤝 Let's Build Something
+
+I'm currently **open to senior / staff engineering roles** in:
+- Applied AI / LLM infrastructure
+- Backend platforms (Java / Python)
+- Developer tooling & agentic systems
+
+<p align="center">
+  <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/✉️_Get_in_touch-jayanth.sde.fsd@gmail.com-EA4335?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/💼_Resume_on-LinkedIn-0A66C2?style=for-the-badge" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" alt="footer" />
+
+<p align="center"><sub>⚙️  Crafted with care · last refresh <code>2026-05</code> · <a href="https://github.com/Jayanth-reflex/Jayanth-reflex">view source</a></sub></p>
