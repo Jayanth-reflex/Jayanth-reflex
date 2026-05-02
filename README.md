@@ -19,19 +19,17 @@
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="900">
-
-**Fullstack engineer (3+ yrs)** · working at the **LLM × infrastructure** layer
-
-Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs. Heretic-abliterated to **0/465 refusals**, with safety enforced at the application layer.
-
-<sub><i>Care about latency, cost, and correctness, without the trade-offs that bite you in 6 months.</i></sub>
-
-</td>
-  </tr>
-</table>
+```ts
+const jayanth = {
+  role:      "Fullstack engineer · 3+ yrs",
+  layer:     "LLM × infrastructure",
+  currently: "Fine-tuning Qwen3.6-35B-A3B on AMD MI300X GPUs",
+  status:    "Heretic-abliterated to 0/465 refusals",
+  safety:    "Enforced at the application layer",
+  values:    ["latency", "cost", "correctness"],
+  rule:      "No trade-offs that bite you in 6 months",
+} as const;
+```
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
@@ -115,68 +113,29 @@ Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs. Heretic-ablite
 
 ### ▎ Currently Building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+> #### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
+>
+> Domain-specialized **Qwen3.6-35B-A3B** fine-tune on **AMD MI300X**. Heretic-abliterated to **0/465 refusals**; safety enforced at the application layer via Llama-Guard-3-1B + YAML policy.
+>
+> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="ROCm" src="https://img.shields.io/badge/-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" /> <img alt="vLLM" src="https://img.shields.io/badge/-vLLM-30A14E?style=flat-square&logoColor=white" /> <img alt="PEFT" src="https://img.shields.io/badge/-PEFT-FFAB00?style=flat-square&logoColor=black" /> <img alt="LoRA" src="https://img.shields.io/badge/-LoRA-FFAB00?style=flat-square&logoColor=black" />
 
-#### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
+> #### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
+>
+> Research on **safe abliteration** + **post-training quantization** (GPTQ, AWQ, GGUF). Tooling, evals, and reproducible recipes. Open source.
+>
+> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="transformers" src="https://img.shields.io/badge/-transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img alt="bitsandbytes" src="https://img.shields.io/badge/-bitsandbytes-7B42BC?style=flat-square&logoColor=white" /> <img alt="llama.cpp" src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logoColor=white" />
 
-Domain-specialized **Qwen3.6-35B-A3B** fine-tune on **AMD MI300X**. Heretic-abliterated to **0/465 refusals**; safety enforced at the application layer via Llama-Guard-3-1B + YAML policy.
+> #### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
+>
+> Production-grade **agentic chatbot** with typed tool-use, durable memory, and streaming UI. Provider-agnostic runtime (OpenRouter / Ollama / Anthropic).
+>
+> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="Vercel AI SDK" src="https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="ROCm" src="https://img.shields.io/badge/-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" />
-  <img alt="vLLM" src="https://img.shields.io/badge/-vLLM-30A14E?style=flat-square&logoColor=white" />
-  <img alt="PEFT" src="https://img.shields.io/badge/-PEFT-FFAB00?style=flat-square&logoColor=black" />
-  <img alt="LoRA" src="https://img.shields.io/badge/-LoRA-FFAB00?style=flat-square&logoColor=black" />
-</p>
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
-
-Research on **safe abliteration** + **post-training quantization** (GPTQ, AWQ, GGUF). Tooling, evals, and reproducible recipes. Open source.
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="transformers" src="https://img.shields.io/badge/-transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="bitsandbytes" src="https://img.shields.io/badge/-bitsandbytes-7B42BC?style=flat-square&logoColor=white" />
-  <img alt="llama.cpp" src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logoColor=white" />
-</p>
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
-
-Production-grade **agentic chatbot** with typed tool-use, durable memory, and streaming UI. Provider-agnostic runtime (OpenRouter / Ollama / Anthropic).
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Vercel AI SDK" src="https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
-
-Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visualization and trend forecasting.
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="D3" src="https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
-  <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
-</p>
-
-</td>
-  </tr>
-</table>
+> #### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
+>
+> Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visualization and trend forecasting.
+>
+> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img alt="D3" src="https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" /> <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
