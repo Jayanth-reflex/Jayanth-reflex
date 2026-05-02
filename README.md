@@ -35,7 +35,7 @@ Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs. Heretic-ablite
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
-## 🛠 Stack
+### ▎ Stack
 
 <table>
   <tr>
@@ -113,13 +113,13 @@ Currently fine-tuning **Qwen3.6-35B-A3B** on AMD **MI300X** GPUs. Heretic-ablite
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
-## ⚡ Currently Building
+### ▎ Currently Building
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
+#### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
 
 Domain-specialized **Qwen3.6-35B-A3B** fine-tune on **AMD MI300X**. Heretic-abliterated to **0/465 refusals**; safety enforced at the application layer via Llama-Guard-3-1B + YAML policy.
 
@@ -134,7 +134,7 @@ Domain-specialized **Qwen3.6-35B-A3B** fine-tune on **AMD MI300X**. Heretic-abli
 </td>
     <td width="50%" valign="top">
 
-### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
+#### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
 
 Research on **safe abliteration** + **post-training quantization** (GPTQ, AWQ, GGUF). Tooling, evals, and reproducible recipes. Open source.
 
@@ -150,7 +150,7 @@ Research on **safe abliteration** + **post-training quantization** (GPTQ, AWQ, G
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
+#### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
 
 Production-grade **agentic chatbot** with typed tool-use, durable memory, and streaming UI. Provider-agnostic runtime (OpenRouter / Ollama / Anthropic).
 
@@ -163,7 +163,7 @@ Production-grade **agentic chatbot** with typed tool-use, durable memory, and st
 </td>
     <td width="50%" valign="top">
 
-### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
+#### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
 
 Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visualization and trend forecasting.
 
@@ -180,7 +180,7 @@ Real-time epidemiological dashboard pulling **WHO / JHU** feeds. Geospatial visu
 
 <p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
-## 🤝 Hire Me
+### ▎ Hire Me
 
 <p align="center"><b>Currently open to senior / staff IC roles in:</b></p>
 
