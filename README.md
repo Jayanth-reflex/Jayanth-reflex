@@ -3,11 +3,11 @@
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/Jayanth-reflex">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=210&section=header&text=Jayanth%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%C2%B7%20AI%20%C2%B7%20Infrastructure&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=210&section=header&text=Jayanth%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20MLOps&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=860&lines=Fullstack+Engineer+%C2%B7+3%2B+years+experience;AI+%26+Backend+Infrastructure+specialist;Currently+fine-tuning+LLMs+on+AMD+MI300X;Open+to+senior+%2F+staff+engineer+roles" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=860&lines=Generative+AI+Engineer+%C2%B7+4+years+experience;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+MLOps;Currently+fine-tuning+LLMs+on+AMD+MI300X;Open+to+senior+%2F+staff+engineer+roles" alt="typing" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### About me
 
-I'm a **Fullstack Engineer** with **3+ years of experience** building production-grade software at the intersection of **AI** and **backend infrastructure**.
+I'm a **Generative AI Software Engineer** with **4 years of experience** building production-grade software at the intersection of **LLM systems** and **backend infrastructure**. I've shipped production Generative AI platforms using RAG, semantic and vector search, agentic AI workflows (LangGraph), and Responsible AI guardrails, serving millions of users.
 
 Right now, I'm fine-tuning **Qwen3.6-35B-A3B** (a 35-billion-parameter large language model) on **AMD MI300X** GPUs. The model achieved zero refusals across 465 safety tests using a technique called heretic-abliteration, with safety policies enforced at the application layer.
 
@@ -51,6 +51,9 @@ I optimize for latency, cost, and correctness, without the shortcuts that bite y
       <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img alt="PEFT / LoRA" src="https://img.shields.io/badge/-PEFT%20%2F%20LoRA-FFAB00?style=flat-square&logoColor=black" />
       <img alt="ROCm" src="https://img.shields.io/badge/-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" />
+      <img alt="RAG" src="https://img.shields.io/badge/-RAG-00C4FF?style=flat-square&logoColor=white" />
+      <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white" />
+      <img alt="Weights & Biases" src="https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -161,7 +164,7 @@ I optimize for latency, cost, and correctness, without the shortcuts that bite y
 
 I'm looking for opportunities in:
 
-- 🤖 **Applied AI / LLM Infrastructure** · fine-tuning, inference, agentic platforms
+- 🤖 **Generative AI / LLM Engineering** · RAG, fine-tuning, inference, agentic platforms
 - ⚙️ **Backend Platforms** · high-throughput Python or Java services, distributed systems
 - 🛠 **Developer Tooling** · agentic systems, LLM-powered developer tools
 
