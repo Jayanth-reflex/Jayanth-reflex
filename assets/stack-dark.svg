@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="530" viewBox="0 0 840 530" role="img" aria-labelledby="title desc">
+<title id="title">Tech stack</title>
+<desc id="desc">interface: React, Next.js, TypeScript, dashboards, data viz. agents: LangGraph, tool calling, MCP, human-in-the-loop, LLM-as-judge. retrieval: RAG, embeddings, vector search, semantic search, prompt engineering. models: PyTorch, Transformers, PEFT / LoRA, quantization, vLLM, Weights &amp; Biases. safety: guardrails, Llama Guard, Responsible AI, RBAC, OAuth2 / JWT, CSP · HSTS. services: Python, FastAPI, Java, Spring Boot, Kafka, REST · SOAP, microservices. data: PostgreSQL, MySQL, MongoDB, Supabase, Redis, ETL pipelines. platform: AWS Bedrock, Azure, Docker, Kubernetes, GitHub Actions, Jenkins, Splunk, New Relic.</desc>
+<style>@font-face{font-family:GM;src:url(data:font/woff2;base64,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) format('woff2');font-weight:100 900;font-display:block}
+.s{font-family:G,-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.m{font-family:GM,ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-variant-ligatures:none}
+.up{text-transform:uppercase;letter-spacing:.08em}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes growx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.rise{animation:rise .55s cubic-bezier(.2,.7,.2,1) both}
+.fade{animation:fade .45s ease both}
+.growx{transform-box:fill-box;transform-origin:0 50%;animation:growx .5s cubic-bezier(.3,.7,.2,1) both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes travel{0%,8%{transform:translateY(0)}92%,100%{transform:translateY(395px)}}
+.dot{animation:travel 5.5s cubic-bezier(.65,0,.35,1) 1.4s infinite alternate}</style>
+<rect x=".5" y=".5" width="839" height="529" rx="14" fill="none" stroke="#3d444d"/>
+<g class="fade">
+  <text class="m" x="24" y="28" font-size="12" fill="#6e7681">stack <tspan fill="#3d444d">/</tspan> ordered by where a request goes</text>
+  <text class="m" x="816" y="28" font-size="12" fill="#6e7681" text-anchor="end">highlighted = daily drivers</text>
+  <line x1="1" y1="46" x2="839" y2="46" stroke="#262c36"/>
+</g>
+<g class="fade" style="animation-delay:0.9s"><line x1="150" y1="73" x2="150" y2="468" stroke="#3d444d" stroke-width="1.5"/>
+<circle cx="150" cy="73" r="3.5" fill="#812581"/>
+<circle cx="150" cy="127" r="3.5" fill="#b5367a"/>
+<circle cx="150" cy="181" r="3.5" fill="#b5367a"/>
+<circle cx="150" cy="235" r="3.5" fill="#e55064"/>
+<circle cx="150" cy="289" r="3.5" fill="#e55064"/>
+<circle cx="150" cy="343" r="3.5" fill="#fb8761"/>
+<circle cx="150" cy="397" r="3.5" fill="#fb8761"/>
+<circle cx="150" cy="468" r="3.5" fill="#fec287"/>
+<circle class="dot" cx="150" cy="73" r="6" fill="#fb8761" fill-opacity=".25"/>
+<circle class="dot" cx="150" cy="73" r="3" fill="#fb8761"/></g>
+<g class="rise" style="animation-delay:0.15s">
+    <text class="m up" x="24" y="77" font-size="11" fill="#6e7681">interface</text>
+    <rect x="176" y="60" width="59.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="77.5" font-size="12.5" fill="#e6edf3">React</text>
+    <rect x="243.5" y="60" width="74.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="254.5" y="77.5" font-size="12.5" fill="#e6edf3">Next.js</text>
+    <rect x="326" y="60" width="97" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="337" y="77.5" font-size="12.5" fill="#9198a1">TypeScript</text>
+    <rect x="431" y="60" width="97" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="442" y="77.5" font-size="12.5" fill="#9198a1">dashboards</text>
+    <rect x="536" y="60" width="82" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="547" y="77.5" font-size="12.5" fill="#9198a1">data viz</text>
+</g>
+<line x1="24" y1="100" x2="816" y2="100" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.23s">
+    <text class="m up" x="24" y="131" font-size="11" fill="#6e7681">agents</text>
+    <rect x="176" y="114" width="89.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="131.5" font-size="12.5" fill="#e6edf3">LangGraph</text>
+    <rect x="273.5" y="114" width="112" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="284.5" y="131.5" font-size="12.5" fill="#9198a1">tool calling</text>
+    <rect x="393.5" y="114" width="44.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="404.5" y="131.5" font-size="12.5" fill="#9198a1">MCP</text>
+    <rect x="446" y="114" width="149.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="457" y="131.5" font-size="12.5" fill="#9198a1">human-in-the-loop</text>
+    <rect x="603.5" y="114" width="112" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="614.5" y="131.5" font-size="12.5" fill="#e6edf3">LLM-as-judge</text>
+</g>
+<line x1="24" y1="154" x2="816" y2="154" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.31s">
+    <text class="m up" x="24" y="185" font-size="11" fill="#6e7681">retrieval</text>
+    <rect x="176" y="168" width="44.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="185.5" font-size="12.5" fill="#e6edf3">RAG</text>
+    <rect x="228.5" y="168" width="97" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="239.5" y="185.5" font-size="12.5" fill="#9198a1">embeddings</text>
+    <rect x="333.5" y="168" width="119.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="344.5" y="185.5" font-size="12.5" fill="#e6edf3">vector search</text>
+    <rect x="461" y="168" width="134.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="472" y="185.5" font-size="12.5" fill="#9198a1">semantic search</text>
+    <rect x="603.5" y="168" width="157" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="614.5" y="185.5" font-size="12.5" fill="#9198a1">prompt engineering</text>
+</g>
+<line x1="24" y1="208" x2="816" y2="208" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.39s">
+    <text class="m up" x="24" y="239" font-size="11" fill="#6e7681">models</text>
+    <rect x="176" y="222" width="74.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="239.5" font-size="12.5" fill="#e6edf3">PyTorch</text>
+    <rect x="258.5" y="222" width="112" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="269.5" y="239.5" font-size="12.5" fill="#9198a1">Transformers</text>
+    <rect x="378.5" y="222" width="104.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="389.5" y="239.5" font-size="12.5" fill="#e6edf3">PEFT / LoRA</text>
+    <rect x="491" y="222" width="112" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="502" y="239.5" font-size="12.5" fill="#9198a1">quantization</text>
+    <rect x="611" y="222" width="52" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="622" y="239.5" font-size="12.5" fill="#e6edf3">vLLM</text>
+    <rect x="671" y="222" width="142" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="682" y="239.5" font-size="12.5" fill="#9198a1">Weights &amp; Biases</text>
+</g>
+<line x1="24" y1="262" x2="816" y2="262" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.47s">
+    <text class="m up" x="24" y="293" font-size="11" fill="#6e7681">safety</text>
+    <rect x="176" y="276" width="97" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="293.5" font-size="12.5" fill="#e6edf3">guardrails</text>
+    <rect x="281" y="276" width="104.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="292" y="293.5" font-size="12.5" fill="#e6edf3">Llama Guard</text>
+    <rect x="393.5" y="276" width="127" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="404.5" y="293.5" font-size="12.5" fill="#9198a1">Responsible AI</text>
+    <rect x="528.5" y="276" width="52" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="539.5" y="293.5" font-size="12.5" fill="#9198a1">RBAC</text>
+    <rect x="588.5" y="276" width="112" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="599.5" y="293.5" font-size="12.5" fill="#9198a1">OAuth2 / JWT</text>
+    <rect x="708.5" y="276" width="97" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="719.5" y="293.5" font-size="12.5" fill="#9198a1">CSP · HSTS</text>
+</g>
+<line x1="24" y1="316" x2="816" y2="316" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.55s">
+    <text class="m up" x="24" y="347" font-size="11" fill="#6e7681">services</text>
+    <rect x="176" y="330" width="67" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="347.5" font-size="12.5" fill="#e6edf3">Python</text>
+    <rect x="251" y="330" width="74.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="262" y="347.5" font-size="12.5" fill="#e6edf3">FastAPI</text>
+    <rect x="333.5" y="330" width="52" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="344.5" y="347.5" font-size="12.5" fill="#e6edf3">Java</text>
+    <rect x="393.5" y="330" width="104.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="404.5" y="347.5" font-size="12.5" fill="#e6edf3">Spring Boot</text>
+    <rect x="506" y="330" width="59.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="517" y="347.5" font-size="12.5" fill="#9198a1">Kafka</text>
+    <rect x="573.5" y="330" width="104.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="584.5" y="347.5" font-size="12.5" fill="#9198a1">REST · SOAP</text>
+    <rect x="686" y="330" width="119.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="697" y="347.5" font-size="12.5" fill="#9198a1">microservices</text>
+</g>
+<line x1="24" y1="370" x2="816" y2="370" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.63s">
+    <text class="m up" x="24" y="401" font-size="11" fill="#6e7681">data</text>
+    <rect x="176" y="384" width="97" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="401.5" font-size="12.5" fill="#e6edf3">PostgreSQL</text>
+    <rect x="281" y="384" width="59.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="292" y="401.5" font-size="12.5" fill="#9198a1">MySQL</text>
+    <rect x="348.5" y="384" width="74.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="359.5" y="401.5" font-size="12.5" fill="#e6edf3">MongoDB</text>
+    <rect x="431" y="384" width="82" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="442" y="401.5" font-size="12.5" fill="#9198a1">Supabase</text>
+    <rect x="521" y="384" width="59.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="532" y="401.5" font-size="12.5" fill="#9198a1">Redis</text>
+    <rect x="588.5" y="384" width="119.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="599.5" y="401.5" font-size="12.5" fill="#9198a1">ETL pipelines</text>
+</g>
+<line x1="24" y1="424" x2="816" y2="424" stroke="#262c36"/>
+<g class="rise" style="animation-delay:0.71s">
+    <text class="m up" x="24" y="472" font-size="11" fill="#6e7681">platform</text>
+    <rect x="176" y="438" width="104.5" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="187" y="455.5" font-size="12.5" fill="#e6edf3">AWS Bedrock</text>
+    <rect x="288.5" y="438" width="59.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="299.5" y="455.5" font-size="12.5" fill="#9198a1">Azure</text>
+    <rect x="356" y="438" width="67" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="367" y="455.5" font-size="12.5" fill="#e6edf3">Docker</text>
+    <rect x="431" y="438" width="97" height="26" rx="6" fill="#151b23" stroke="#9198a1"/>
+    <text class="m" x="442" y="455.5" font-size="12.5" fill="#e6edf3">Kubernetes</text>
+    <rect x="536" y="438" width="127" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="547" y="455.5" font-size="12.5" fill="#9198a1">GitHub Actions</text>
+    <rect x="671" y="438" width="74.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="682" y="455.5" font-size="12.5" fill="#9198a1">Jenkins</text>
+    <rect x="176" y="472" width="67" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="187" y="489.5" font-size="12.5" fill="#9198a1">Splunk</text>
+    <rect x="251" y="472" width="89.5" height="26" rx="6" fill="#151b23" stroke="#3d444d"/>
+    <text class="m" x="262" y="489.5" font-size="12.5" fill="#9198a1">New Relic</text>
+</g>
+</svg>

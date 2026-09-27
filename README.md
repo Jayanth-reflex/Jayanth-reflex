@@ -1,179 +1,131 @@
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-<!--  HEADER · waving banner with project-themed gradient (violet→azure→cyan)-->
-<!-- ─────────────────────────────────────────────────────────────────────── -->
-
-<a href="https://github.com/Jayanth-reflex">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=210&section=header&text=Jayanth%20Reddy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20MLOps&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
-</a>
+<a href="https://jayanth-sde.vercel.app"><img alt="Jayanth Reddy. Generative AI engineer who ships LLM systems to production: retrieval, fine-tuning, evals, guardrails, and the services around them. 4 years in production, based in Hyderabad, open to senior and staff roles." src="assets/header-dark.svg#gh-dark-mode-only" width="100%"><img alt="Jayanth Reddy. Generative AI engineer who ships LLM systems to production: retrieval, fine-tuning, evals, guardrails, and the services around them. 4 years in production, based in Hyderabad, open to senior and staff roles." src="assets/header-light.svg#gh-light-mode-only" width="100%"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=860&lines=Generative+AI+Engineer+%C2%B7+4+years+experience;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+MLOps;Currently+fine-tuning+LLMs+on+AMD+MI300X;Open+to+senior+%2F+staff+engineer+roles" alt="typing" />
+  <a href="https://jayanth-sde.vercel.app"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/jayanth-sde"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/Reflex-jr"><b>Hugging Face</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:jayanth.sde.fsd@gmail.com"><b>jayanth.sde.fsd@gmail.com</b></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jayanth-reflex&label=Profile%20views&color=0a66c2&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20senior%20%2F%20staff%20roles-22c55e?style=flat-square" alt="status" />
-  <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/-jayanth.sde.fsd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-</p>
-
-<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
 
 ### About me
 
-I'm a **Generative AI Software Engineer** with **4 years of experience** building production-grade software at the intersection of **LLM systems** and **backend infrastructure**. I've shipped production Generative AI platforms using RAG, semantic and vector search, agentic AI workflows (LangGraph), and Responsible AI guardrails, serving millions of users.
+I'm a senior software engineer with four years of building generative AI systems and the backend services underneath them. I've shipped a retrieval-augmented generation (RAG) platform on AWS Bedrock that serves millions of users, fine-tuned a domain model that cut third-party model spend by 80%, and built Java microservices for 50,000+ concurrent users.
 
-Right now, I'm fine-tuning **Qwen3.6-35B-A3B** (a 35-billion-parameter large language model) on **AMD MI300X** GPUs. The model achieved zero refusals across 465 safety tests using a technique called heretic-abliteration, with safety policies enforced at the application layer.
+**Right now** I'm designing governance workflows that observe and evaluate AI agents at scale, including an LLM-as-judge proof of concept that evaluates 10+ agentic workflows.
 
-I optimize for latency, cost, and correctness, without the shortcuts that bite you 6 months later.
+**Outside work** I fine-tune open models, most recently a Qwen3.6-35B-A3B fine-tune on a single AMD MI300X that is [published on Hugging Face](https://huggingface.co/Reflex-jr), and I send fixes upstream to the open source tools I use.
 
-<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
+### Impact
 
-### Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <img alt="Measured impact from past roles. Hallucinations in agent workflows down 60%. Third-party model spend down 80%. Time to complete an application down 60%. Manual candidate screening down 90%. API security incidents down 60%. Database response time down 35%. At scale: 50,000+ concurrent users, dashboards over 25+ APIs, 90%+ test coverage, 35+ engineers trained." src="assets/impact-light.svg" width="100%">
+</picture>
+
+### Open source contributions
+
+Fixes I've sent upstream, most of them found while building my own projects.
+
+<!-- oss:start -->
+<p>
+<a href="https://github.com/NandhaKishorM/laya/pull/624"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 26.7k stars)" src="assets/oss/nandhakishorm-laya-624-dark.svg#gh-dark-mode-only" width="400"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 26.7k stars)" src="assets/oss/nandhakishorm-laya-624-light.svg#gh-light-mode-only" width="400"></a>
+<a href="https://github.com/koala73/worldmonitor/pull/2455"><img alt="In review: fix(sanctions): pass timeRange filter to sanctions pressure API (koala73/worldmonitor, 87.5k stars)" src="assets/oss/koala73-worldmonitor-2455-dark.svg#gh-dark-mode-only" width="400"><img alt="In review: fix(sanctions): pass timeRange filter to sanctions pressure API (koala73/worldmonitor, 87.5k stars)" src="assets/oss/koala73-worldmonitor-2455-light.svg#gh-light-mode-only" width="400"></a>
+<a href="https://github.com/deepset-ai/haystack/pull/12988"><img alt="In review: fix: keep hyperlink addresses in DOCXToDocument table cells (deepset-ai/haystack, 26.6k stars)" src="assets/oss/deepset-ai-haystack-12988-dark.svg#gh-dark-mode-only" width="400"><img alt="In review: fix: keep hyperlink addresses in DOCXToDocument table cells (deepset-ai/haystack, 26.6k stars)" src="assets/oss/deepset-ai-haystack-12988-light.svg#gh-light-mode-only" width="400"></a>
+<a href="https://github.com/miurahr/py7zr/pull/754"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 558 stars)" src="assets/oss/miurahr-py7zr-754-dark.svg#gh-dark-mode-only" width="400"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 558 stars)" src="assets/oss/miurahr-py7zr-754-light.svg#gh-light-mode-only" width="400"></a>
+</p>
+<sub>4 pull requests to 4 projects · 1 merged, 3 in review · cards refresh daily from the GitHub API</sub>
+<!-- oss:end -->
+
+### Experience
+
+**Senior Software Engineer** · AI governance and agent evaluation · <sub>Jul 2026 – present</sub>
+- Designing governance workflows for the observability and evaluation of AI agents at scale
+- Built an LLM-as-judge proof of concept that evaluates 10+ agentic workflows
+- Trained 20+ developers on AWS and Azure AI services
+
+**Senior Developer (contract)** · production generative AI platform · <sub>Sep 2025 – Jun 2026</sub>
+- Built a RAG platform on AWS Bedrock with semantic and vector search and Responsible AI guardrails, serving millions of users and cutting application completion time by 60%
+- Cut hallucinations by 60% across LangGraph agent workflows through prompt templates and systematic prompt and model evaluation
+- Fine-tuned, evaluated and deployed a domain small language model with PyTorch, Hugging Face Transformers and Weights & Biases on Docker and Kubernetes, cutting third-party model costs by 80%
+- Unified modern identity management and legacy JWT users under one role-based access model, enforced CSP and HSTS, and moved hardcoded secrets into AWS Systems Manager
+- Mentored 3 developers and trained 15+ engineers on RAG and agentic workflows
+
+**Software Engineer** · enterprise backend and integrations · <sub>Feb 2022 – Mar 2025, including a trainee period</sub>
+- Built a RAG chatbot that grounds answers in enterprise content, and an integration layer across 10+ systems using REST, SOAP and Apache Kafka pipelines
+- Designed 4 Spring Boot microservices serving 50,000+ concurrent users on Docker and Kubernetes
+- Secured APIs with Azure API Management, OAuth2 and JWT, cutting security incidents by 60%; built React and TypeScript dashboards over 25+ APIs
+- Tuned MySQL schemas with JPA and Hibernate for 35% faster responses, with JUnit5 suites at 90%+ coverage
+
+**Recognition** · Won a Vista-backed hackathon with an agentic hiring system that shortlists, interviews and recommends candidates across 1M+ applicant records, cutting manual screening by 90% · Rising Star award for AI integration delivery · Google Generative AI, AWS and Microsoft Azure certified · B.Tech, JNTUH (MRCET), 2022
+
+### Projects
 
 <table>
-  <tr>
-    <td valign="middle"><b>Languages</b></td>
-    <td>
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>AI / ML</b></td>
-    <td>
-      <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img alt="vLLM" src="https://img.shields.io/badge/-vLLM-30A14E?style=flat-square&logoColor=white" />
-      <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img alt="PEFT / LoRA" src="https://img.shields.io/badge/-PEFT%20%2F%20LoRA-FFAB00?style=flat-square&logoColor=black" />
-      <img alt="ROCm" src="https://img.shields.io/badge/-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" />
-      <img alt="RAG" src="https://img.shields.io/badge/-RAG-00C4FF?style=flat-square&logoColor=white" />
-      <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white" />
-      <img alt="Weights & Biases" src="https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Backend</b></td>
-    <td>
-      <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Frontend</b></td>
-    <td>
-      <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Databases</b></td>
-    <td>
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Cloud / DevOps</b></td>
-    <td>
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Tools</b></td>
-    <td>
-      <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logoColor=white" />
-      <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-      <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)**<br>
+A solo 48-hour fine-tune of Qwen3.6-35B-A3B on one AMD MI300X: LoRA training, merge, abliteration, then a 9-quant GGUF ladder [on Hugging Face](https://huggingface.co/Reflex-jr/Qwen3.6-35B-A3B-Domain-Aggressive-GGUF). Safety policy runs at the application layer with Llama Guard 3.<br>
+<sub>PyTorch · PEFT / LoRA · ROCm · vLLM · Weights & Biases</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[lastbite-swiggy-mcp](https://github.com/Jayanth-reflex/lastbite-swiggy-mcp)**<br>
+Order food from Swiggy in plain English. An agent on Swiggy's MCP server builds the cart, then walks you through three confirmation gates and a 30-second grace timer before anything is placed. [Live demo](https://swiggy-mcp.vercel.app).<br>
+<sub>TypeScript · Next.js · LangGraph · MCP · Redis · Postgres</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[domain-flipper-agent](https://github.com/Jayanth-reflex/domain-flipper-agent)**<br>
+LangGraph agents that read trends from the open web, generate and value domain names, check trademarks and availability, and wait for a human to approve before acting. Each external service sits behind its own MCP server.<br>
+<sub>Python · LangGraph · Claude API · FastMCP · Postgres</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[file-password-remover](https://github.com/Jayanth-reflex/file-password-remover)**<br>
+Removes passwords from PDF, Office, ZIP and 7-Zip files you own, entirely offline, and re-opens every output to verify it before writing. Building it turned up the py7zr hang I fixed upstream.<br>
+<sub>Python · pikepdf · msoffcrypto · py7zr</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[global-health-radar](https://github.com/Jayanth-reflex/global-health-radar)**<br>
+A worldwide disease tracker built as Spring Boot microservices behind a JWT gateway, with a transactional outbox, PostGIS and two levels of caching, running on free hosting.<br>
+<sub>Java 25 · Spring Boot 4 · Next.js 16 · Supabase · Redis</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[reflex-whoop](https://github.com/Jayanth-reflex/reflex-whoop)**<br>
+An iOS app that keeps WHOOP data on your phone: it syncs the WHOOP API and records live heart rate straight from the band over read-only Bluetooth, into an archive that outlives the subscription.<br>
+<sub>Swift · SwiftUI · Core Bluetooth · GRDB (SQLite)</sub>
+
+</td>
+</tr>
 </table>
 
-<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
+### Tech stack
 
-### Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech stack, ordered by where a request goes. Interface: React, Next.js, TypeScript. Agents: LangGraph, tool calling, MCP, human-in-the-loop, LLM-as-judge. Retrieval: RAG, embeddings, vector and semantic search, prompt engineering. Models: PyTorch, Transformers, PEFT and LoRA, quantization, vLLM, Weights and Biases. Safety: guardrails, Llama Guard, Responsible AI, RBAC, OAuth2 and JWT, CSP and HSTS. Services: Python, FastAPI, Java, Spring Boot, Kafka, REST and SOAP, microservices. Data: PostgreSQL, MySQL, MongoDB, Supabase, Redis, ETL pipelines. Platform: AWS Bedrock, Azure, Docker, Kubernetes, GitHub Actions, Jenkins, Splunk, New Relic." src="assets/stack-light.svg" width="100%">
+</picture>
 
-#### 🧠 [amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)
+### GitHub activity
 
-**Domain-specialized AI fine-tuning project.** Built for the AMD Hackathon 2026. Specialized fine-tune of **Qwen3.6-35B-A3B** (a 35-billion-parameter large language model) on **AMD MI300X** GPUs. Achieved zero refusals across 465 safety tests via a technique called heretic-abliteration, with safety policies enforced at the application layer.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="GitHub contributions over the last 12 months, excluding automated commits, with commit, pull request, issue and upstream repository totals and a language breakdown." src="assets/activity-light.svg" width="100%">
+</picture>
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="ROCm" src="https://img.shields.io/badge/-ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" />
-  <img alt="vLLM" src="https://img.shields.io/badge/-vLLM-30A14E?style=flat-square&logoColor=white" />
-  <img alt="PEFT" src="https://img.shields.io/badge/-PEFT-FFAB00?style=flat-square&logoColor=black" />
-  <img alt="LoRA" src="https://img.shields.io/badge/-LoRA-FFAB00?style=flat-square&logoColor=black" />
-</p>
+### Let's talk
 
-#### 🛡️ [llm-abliteration-quantization](https://github.com/Jayanth-reflex/llm-abliteration-quantization)
+I'm open to senior and staff individual-contributor roles in LLM engineering, AI platforms and backend infrastructure. I'm based in Hyderabad and open to remote work or relocation, and I reply to every message within 24 hours.
 
-**Open-source AI research project.** Research on safe model abliteration and post-training quantization (GPTQ, AWQ, and GGUF formats). Includes tooling, evaluations, and reproducible recipes for the broader community.
+**[jayanth.sde.fsd@gmail.com](mailto:jayanth.sde.fsd@gmail.com)** · **[LinkedIn](https://linkedin.com/in/jayanth-sde)** · **[Portfolio](https://jayanth-sde.vercel.app)**
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="transformers" src="https://img.shields.io/badge/-transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="bitsandbytes" src="https://img.shields.io/badge/-bitsandbytes-7B42BC?style=flat-square&logoColor=white" />
-  <img alt="llama.cpp" src="https://img.shields.io/badge/-llama.cpp-000000?style=flat-square&logoColor=white" />
-</p>
-
-#### 🤖 [ai-agent-chatbot](https://github.com/Jayanth-reflex/ai-agent-chatbot)
-
-**Production-grade agentic AI chatbot.** Built with typed tool calls, persistent memory, and streaming responses. Provider-agnostic, so it works seamlessly with multiple AI providers (OpenRouter, Ollama, and Anthropic).
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Vercel AI SDK" src="https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-#### 🌍 [global-disease-tracker](https://github.com/Jayanth-reflex/global-disease-tracker)
-
-**Real-time disease tracking dashboard.** Pulls live data from the World Health Organization (WHO) and Johns Hopkins University. Features map-based geospatial visualization and trend forecasting.
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="D3" src="https://img.shields.io/badge/-D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
-  <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
-</p>
-
-<p align="center"><img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:0a66c2,100:00c4ff&height=4" /></p>
-
-### Open to Hire
-
-**I'm currently open to senior or staff engineer roles** (individual contributor positions, not management).
-
-I'm looking for opportunities in:
-
-- 🤖 **Generative AI / LLM Engineering** · RAG, fine-tuning, inference, agentic platforms
-- ⚙️ **Backend Platforms** · high-throughput Python or Java services, distributed systems
-- 🛠 **Developer Tooling** · agentic systems, LLM-powered developer tools
-
-I'm based in India and open to remote roles or relocation. **I respond to all messages within 24 hours.**
-
-<p align="center">
-  <a href="mailto:jayanth.sde.fsd@gmail.com"><img src="https://img.shields.io/badge/✉_Email%20me-jayanth.sde.fsd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email cta" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/kolli-gnana-jayanth-reddy"><img src="https://img.shields.io/badge/💼_Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin cta" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0a66c2,100:00c4ff&height=120&section=footer" alt="footer" />
+<sub>Every card on this page is an SVG drawn by <a href="scripts/build.mjs">scripts/build.mjs</a> and refreshed daily by GitHub Actions. No third-party image services.</sub>

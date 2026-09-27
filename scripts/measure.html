@@ -1,0 +1,26 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>glyph metrics</title>
+<!-- Dev tool: serve the repo root, open this page, then copy window.METRICS into data/metrics.json.
+     Only needed when the fonts in assets/fonts change. -->
+<script type="module">
+const fonts = { sans: '../assets/fonts/Geist.woff2', mono: '../assets/fonts/GeistMono.woff2' };
+const faces = await Promise.all(Object.entries(fonts).map(async ([k, url]) => {
+  const f = new FontFace(k === 'sans' ? 'MGeist' : 'MGeistMono', `url(${url})`, { weight: '100 900' });
+  await f.load(); document.fonts.add(f); return f;
+}));
+const ctx = document.createElement('canvas').getContext('2d');
+const chars = [];
+for (let c = 32; c < 127; c++) chars.push(String.fromCharCode(c));
+chars.push(...'·—–→←↓↑★×▸›…•’‘“”−≈✓●○│▌⎯₹'.split(''));
+const out = { size: 100, sans: {}, mono: {} };
+for (const [key, fam] of [['sans', 'MGeist'], ['mono', 'MGeistMono']]) {
+  for (const w of [400, 500, 600, 700, 800]) {
+    ctx.font = `${w} 100px ${fam}`;
+    out[key][w] = Object.fromEntries(chars.map(ch => [ch, +ctx.measureText(ch).width.toFixed(2)]));
+  }
+}
+window.measure = (s, w = 400, fam = 'MGeist', size = 100) => { ctx.font = `${w} ${size}px ${fam}`; return ctx.measureText(s).width; };
+window.METRICS = out;
+document.body.textContent = 'ready';
+</script>
