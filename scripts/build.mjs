@@ -47,8 +47,10 @@ for (const t of Object.values(themes)) {
   write(join(ASSETS, `activity-${t.name}.svg`), activityCard(t, data));
 }
 
-// Landed work first, then open PRs ordered by how widely the project is used.
-const prs = [...data.pullRequests].sort((a, b) => {
+// The 4 most recent PRs, shown landed work first, then open PRs ordered by how widely the project is used.
+const TOP = 4;
+const recent = [...data.pullRequests].sort((a, b) => b.createdAt.localeCompare(a.createdAt)).slice(0, TOP);
+const prs = recent.sort((a, b) => {
   if (a.status !== b.status) return a.status === 'merged' ? -1 : 1;
   if (a.status === 'merged') return b.mergedAt.localeCompare(a.mergedAt);
   return b.stars - a.stars;
@@ -66,16 +68,15 @@ for (const pr of prs) {
 for (const file of readdirSync(OSS_DIR)) if (!keep.has(file)) rmSync(join(OSS_DIR, file));
 
 // README: only the block between the oss markers is generated.
-// Linked images use GitHub's #gh-dark-mode-only / #gh-light-mode-only fragments: GitHub's renderer
-// pulls an <img> out of <a><picture>, which breaks both the link and the dark variant.
+// <a><picture> renders as one linked, theme-aware image. The #gh-dark-mode-only fragments no longer
+// hide the other variant, so they showed every card twice.
 const picture = (pr) => {
   const alt = esc(`${pr.status === 'merged' ? 'Merged' : 'In review'}: ${pr.title} (${pr.repo}, ${compact(pr.stars)} stars)`);
   const src = `assets/oss/${slug(pr)}`;
-  return `<a href="${pr.url}"><img alt="${alt}" src="${src}-dark.svg#gh-dark-mode-only" width="400"><img alt="${alt}" src="${src}-light.svg#gh-light-mode-only" width="400"></a>`;
+  return `<a href="${pr.url}"><picture><source media="(prefers-color-scheme: dark)" srcset="${src}-dark.svg"><img alt="${alt}" src="${src}-light.svg" width="400"></picture></a>`;
 };
-const repos = new Set(prs.map((p) => p.repo));
 const merged = prs.filter((p) => p.status === 'merged').length;
-const summary = `${prs.length} pull request${prs.length === 1 ? '' : 's'} to ${repos.size} project${repos.size === 1 ? '' : 's'} · ${merged} merged, ${prs.length - merged} in review · cards refresh daily from the GitHub API`;
+const summary = `Top ${prs.length} of my most recent upstream pull requests · ${merged} merged, ${prs.length - merged} in review · cards refresh daily from the GitHub API`;
 const block = `<!-- oss:start -->
 <p>
 ${prs.map(picture).join('\n')}

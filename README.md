@@ -1,11 +1,7 @@
-<a href="https://jayanth-sde.vercel.app"><img alt="Jayanth Reddy. Generative AI engineer who ships LLM systems to production: retrieval, fine-tuning, evals, guardrails, and the services around them. 4 years in production, based in Hyderabad, open to senior and staff roles." src="assets/header-dark.svg#gh-dark-mode-only" width="100%"><img alt="Jayanth Reddy. Generative AI engineer who ships LLM systems to production: retrieval, fine-tuning, evals, guardrails, and the services around them. 4 years in production, based in Hyderabad, open to senior and staff roles." src="assets/header-light.svg#gh-light-mode-only" width="100%"></a>
+<a href="https://jayanth-sde.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Jayanth Reddy. Generative AI engineer who ships LLM systems to production: retrieval, fine-tuning, evals, guardrails, and the services around them. 4 years in production, based in Hyderabad, open to senior and staff roles." src="assets/header-light.svg" width="100%"></picture></a>
 
 <p align="center">
-  <a href="https://jayanth-sde.vercel.app"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/jayanth-sde"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/Reflex-jr"><b>Hugging Face</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:jayanth.sde.fsd@gmail.com"><b>jayanth.sde.fsd@gmail.com</b></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/Jayanth-reflex"><img alt="Sponsor Jayanth-reflex on GitHub" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white"></a>
+  <a href="https://jayanth-sde.vercel.app"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/jayanth-sde"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/Reflex-jr"><b>Hugging Face</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:jayanth.sde.fsd@gmail.com"><b>jayanth.sde.fsd@gmail.com</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/sponsors/Jayanth-reflex"><b>Sponsor ♥</b></a>
 </p>
 
 ### About me
@@ -23,18 +19,18 @@ I'm a senior software engineer with four years of building generative AI systems
   <img alt="Measured impact from past roles. Hallucinations in agent workflows down 60%. Third-party model spend down 80%. Time to complete an application down 60%. Manual candidate screening down 90%. API security incidents down 60%. Database response time down 35%. At scale: 50,000+ concurrent users, dashboards over 25+ APIs, 90%+ test coverage, 35+ engineers trained." src="assets/impact-light.svg" width="100%">
 </picture>
 
-### Open source contributions
+### Top 4 open source contributions
 
-Fixes I've sent upstream, most of them found while building my own projects.
+My four best recent fixes sent upstream, most of them found while building my own projects.
 
 <!-- oss:start -->
 <p>
-<a href="https://github.com/deepset-ai/haystack/pull/12988"><img alt="Merged: fix: keep hyperlink addresses in DOCXToDocument table cells (deepset-ai/haystack, 26.7k stars)" src="assets/oss/deepset-ai-haystack-12988-dark.svg#gh-dark-mode-only" width="400"><img alt="Merged: fix: keep hyperlink addresses in DOCXToDocument table cells (deepset-ai/haystack, 26.7k stars)" src="assets/oss/deepset-ai-haystack-12988-light.svg#gh-light-mode-only" width="400"></a>
-<a href="https://github.com/NandhaKishorM/laya/pull/624"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 31.6k stars)" src="assets/oss/nandhakishorm-laya-624-dark.svg#gh-dark-mode-only" width="400"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 31.6k stars)" src="assets/oss/nandhakishorm-laya-624-light.svg#gh-light-mode-only" width="400"></a>
-<a href="https://github.com/koala73/worldmonitor/pull/2455"><img alt="In review: fix(sanctions): pass timeRange filter to sanctions pressure API (koala73/worldmonitor, 88k stars)" src="assets/oss/koala73-worldmonitor-2455-dark.svg#gh-dark-mode-only" width="400"><img alt="In review: fix(sanctions): pass timeRange filter to sanctions pressure API (koala73/worldmonitor, 88k stars)" src="assets/oss/koala73-worldmonitor-2455-light.svg#gh-light-mode-only" width="400"></a>
-<a href="https://github.com/miurahr/py7zr/pull/754"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 557 stars)" src="assets/oss/miurahr-py7zr-754-dark.svg#gh-dark-mode-only" width="400"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 557 stars)" src="assets/oss/miurahr-py7zr-754-light.svg#gh-light-mode-only" width="400"></a>
+<a href="https://github.com/deepset-ai/haystack/pull/12988"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/deepset-ai-haystack-12988-dark.svg"><img alt="Merged: fix: keep hyperlink addresses in DOCXToDocument table cells (deepset-ai/haystack, 26.7k stars)" src="assets/oss/deepset-ai-haystack-12988-light.svg" width="400"></picture></a>
+<a href="https://github.com/NandhaKishorM/laya/pull/624"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/nandhakishorm-laya-624-dark.svg"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 31.7k stars)" src="assets/oss/nandhakishorm-laya-624-light.svg" width="400"></picture></a>
+<a href="https://github.com/koala73/worldmonitor/pull/2455"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/koala73-worldmonitor-2455-dark.svg"><img alt="In review: fix(sanctions): pass timeRange filter to sanctions pressure API (koala73/worldmonitor, 88.1k stars)" src="assets/oss/koala73-worldmonitor-2455-light.svg" width="400"></picture></a>
+<a href="https://github.com/miurahr/py7zr/pull/754"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/miurahr-py7zr-754-dark.svg"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 557 stars)" src="assets/oss/miurahr-py7zr-754-light.svg" width="400"></picture></a>
 </p>
-<sub>4 pull requests to 4 projects · 2 merged, 2 in review · cards refresh daily from the GitHub API</sub>
+<sub>Top 4 of my most recent upstream pull requests · 2 merged, 2 in review · cards refresh daily from the GitHub API</sub>
 <!-- oss:end -->
 
 ### Experience
