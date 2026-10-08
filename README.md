@@ -4,6 +4,10 @@
   <a href="https://jayanth-sde.vercel.app"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/jayanth-sde"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/Reflex-jr"><b>Hugging Face</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:jayanth.sde.fsd@gmail.com"><b>jayanth.sde.fsd@gmail.com</b></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/Jayanth-reflex"><img alt="Sponsor Jayanth-reflex on GitHub" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white"></a>
+</p>
+
 ### About me
 
 I'm a senior software engineer with four years of building generative AI systems and the backend services underneath them. I've shipped a retrieval-augmented generation (RAG) platform on AWS Bedrock that serves millions of users, fine-tuned a domain model that cut third-party model spend by 80%, and built Java microservices for 50,000+ concurrent users.
