@@ -40,7 +40,7 @@ My four best recent fixes sent upstream, most of them found while building my ow
 - Built an LLM-as-judge proof of concept that evaluates 10+ agentic workflows
 - Trained 20+ developers on AWS and Azure AI services
 
-**Senior Developer (contract)** · production generative AI platform · <sub>Sep 2025 – Jun 2026</sub>
+**Senior Developer** · production generative AI platform · <sub>Sep 2025 – Jun 2026</sub>
 - Built a RAG platform on AWS Bedrock with semantic and vector search and Responsible AI guardrails, serving millions of users and cutting application completion time by 60%
 - Cut hallucinations by 60% across LangGraph agent workflows through prompt templates and systematic prompt and model evaluation
 - Fine-tuned, evaluated and deployed a domain small language model with PyTorch, Hugging Face Transformers and Weights & Biases on Docker and Kubernetes, cutting third-party model costs by 80%
