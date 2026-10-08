@@ -1,8 +1,8 @@
 {
   "login": "Jayanth-reflex",
   "totals": {
-    "contributions": 527,
-    "commits": 480,
+    "contributions": 529,
+    "commits": 482,
     "automatedExcluded": 444,
     "pullRequests": 15,
     "issues": 5,
@@ -1485,56 +1485,56 @@
     },
     {
       "date": "2026-10-08",
-      "count": 3
+      "count": 5
     }
   ],
   "languages": [
     {
       "name": "TypeScript",
-      "share": 0.3543452372068074
+      "share": 0.35384055341311393
     },
     {
       "name": "Python",
-      "share": 0.2868094462091371
+      "share": 0.2864009517122985
     },
     {
       "name": "Swift",
-      "share": 0.17300712224231907
+      "share": 0.172760713142884
     },
     {
       "name": "JavaScript",
-      "share": 0.08895430539028051
+      "share": 0.09025188173421023
     },
     {
       "name": "Java",
-      "share": 0.04993326431357224
+      "share": 0.04986214579236982
     },
     {
       "name": "Kotlin",
-      "share": 0.03247863711752491
+      "share": 0.03243237872296126
     },
     {
       "name": "Shell",
-      "share": 0.011955660909441642
+      "share": 0.011938632803317082
     },
     {
       "name": "Ruby",
-      "share": 0.001577142247194772
+      "share": 0.0015748959685689245
     },
     {
       "name": "PowerShell",
-      "share": 0.0007799775753620259
+      "share": 0.0007788666755942387
     },
     {
       "name": "Mako",
-      "share": 0.00015920678836035552
+      "share": 0.00015898003468203654
     }
   ],
   "pullRequests": [
     {
       "repo": "NandhaKishorM/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "stars": 31683,
+      "stars": 31686,
       "owner": "NandhaKishorM",
       "title": "fix(serve): set TCP_NODELAY on every accepted connection",
       "url": "https://github.com/NandhaKishorM/laya/pull/624",
