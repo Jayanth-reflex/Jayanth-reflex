@@ -16,11 +16,14 @@ import { impactCard } from './cards/impact.mjs';
 import { stackCard } from './cards/stack.mjs';
 import { activityCard } from './cards/activity.mjs';
 import { ossCard, compact } from './cards/oss.mjs';
+import { projectCard } from './cards/project.mjs';
+import { projects } from './content.mjs';
 
 const LOGIN = 'Jayanth-reflex';
 const CACHE = join(ROOT, 'data/github.json');
 const ASSETS = join(ROOT, 'assets');
 const OSS_DIR = join(ASSETS, 'oss');
+const PROJECTS_DIR = join(ASSETS, 'projects');
 const README = join(ROOT, 'README.md');
 
 const offline = process.argv.includes('--offline');
@@ -39,6 +42,7 @@ function write(path, svg) {
 }
 
 mkdirSync(OSS_DIR, { recursive: true });
+mkdirSync(PROJECTS_DIR, { recursive: true });
 
 for (const t of Object.values(themes)) {
   write(join(ASSETS, `header-${t.name}.svg`), headerCard(t));
@@ -67,7 +71,7 @@ for (const pr of prs) {
 }
 for (const file of readdirSync(OSS_DIR)) if (!keep.has(file)) rmSync(join(OSS_DIR, file));
 
-// README: only the block between the oss markers is generated.
+// README: only the blocks between the oss and projects markers are generated.
 // <a><picture> renders as one linked, theme-aware image. The #gh-dark-mode-only fragments no longer
 // hide the other variant, so they showed every card twice.
 const picture = (pr) => {
@@ -84,8 +88,35 @@ ${prs.map(picture).join('\n')}
 <sub>${summary}</sub>
 <!-- oss:end -->`;
 
-const readme = readFileSync(README, 'utf8');
-if (!/<!-- oss:start -->[\s\S]*<!-- oss:end -->/.test(readme)) throw new Error('README.md is missing the <!-- oss:start --> / <!-- oss:end --> markers.');
-writeFileSync(README, readme.replace(/<!-- oss:start -->[\s\S]*<!-- oss:end -->/, block));
+// Project cards, two to a row, each linking to its repo.
+const projectKeep = new Set();
+projects.forEach((p, i) => {
+  for (const t of Object.values(themes)) {
+    const file = `${p.repo.toLowerCase()}-${t.name}.svg`;
+    projectKeep.add(file);
+    write(join(PROJECTS_DIR, file), projectCard(t, p, i));
+  }
+});
+for (const file of readdirSync(PROJECTS_DIR)) if (!projectKeep.has(file)) rmSync(join(PROJECTS_DIR, file));
+const projectPicture = (p) => {
+  const alt = esc(`${p.repo}: ${p.kind}. ${p.hook}`);
+  const src = `assets/projects/${p.repo.toLowerCase()}`;
+  return `<a href="https://github.com/${LOGIN}/${p.repo}"><picture><source media="(prefers-color-scheme: dark)" srcset="${src}-dark.svg"><img alt="${alt}" src="${src}-light.svg" width="400"></picture></a>`;
+};
+const projectsBlock = `<!-- projects:start -->
+<p>
+${projects.map(projectPicture).join('\n')}
+</p>
+<!-- projects:end -->`;
+
+const replaceBlock = (text, name, content) => {
+  const re = new RegExp(`<!-- ${name}:start -->[\\s\\S]*<!-- ${name}:end -->`);
+  if (!re.test(text)) throw new Error(`README.md is missing the <!-- ${name}:start --> / <!-- ${name}:end --> markers.`);
+  return text.replace(re, content);
+};
+let readme = readFileSync(README, 'utf8');
+readme = replaceBlock(readme, 'oss', block);
+readme = replaceBlock(readme, 'projects', projectsBlock);
+writeFileSync(README, readme);
 
 console.log(`Built ${written.length} SVGs from ${offline ? 'cached' : 'live'} data; ${prs.length} upstream PRs in README.`);

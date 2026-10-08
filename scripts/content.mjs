@@ -37,3 +37,49 @@ export const stack = [
   { label: 'data', items: ['PostgreSQL', 'MySQL', 'MongoDB', 'Supabase', 'Redis', 'ETL pipelines'], core: ['PostgreSQL', 'MongoDB'] },
   { label: 'platform', items: ['AWS Bedrock', 'Azure', 'Docker', 'Kubernetes', 'GitHub Actions', 'Jenkins', 'Splunk', 'New Relic'], core: ['AWS Bedrock', 'Kubernetes', 'Docker'] },
 ];
+
+// Project cards: what kind of work it is, the one number that sells it, and a three-line hook.
+export const projects = [
+  {
+    repo: 'amd-hackathon-2026',
+    kind: 'LLM fine-tune',
+    stat: { value: '48h', label: 'solo, one MI300X' },
+    hook: 'Fine-tuned Qwen3.6-35B-A3B end to end on one AMD GPU: LoRA, merge and abliteration, shipped as a 9-quant GGUF ladder on Hugging Face. Safety runs at the app layer with Llama Guard 3.',
+    chips: ['PyTorch', 'LoRA', 'ROCm', 'vLLM', 'W&B'],
+  },
+  {
+    repo: 'lastbite-swiggy-mcp',
+    kind: 'Agent · MCP',
+    stat: { value: '3', label: 'confirmation gates' },
+    hook: 'Order food from Swiggy in plain English. The agent builds the cart over Swiggy\'s MCP server, then three confirmation gates and a 30-second grace timer stand between it and your order.',
+    chips: ['TypeScript', 'Next.js', 'LangGraph', 'MCP', 'Redis'],
+  },
+  {
+    repo: 'domain-flipper-agent',
+    kind: 'Multi-agent',
+    stat: { value: '1:1', label: 'MCP server per service' },
+    hook: 'LangGraph agents read trends from the open web, generate and value domain names, check trademarks and availability, then stop and wait for a human to approve before acting.',
+    chips: ['Python', 'LangGraph', 'Claude API', 'FastMCP', 'Postgres'],
+  },
+  {
+    repo: 'file-password-remover',
+    kind: 'Local-first tool',
+    stat: { value: '0', label: 'bytes uploaded' },
+    hook: 'Strips passwords from PDF, Office, ZIP and 7-Zip files you own, entirely offline, and re-opens every output to verify it before writing. Building it surfaced the py7zr hang I fixed upstream.',
+    chips: ['Python', 'pikepdf', 'msoffcrypto', 'py7zr'],
+  },
+  {
+    repo: 'global-health-radar',
+    kind: 'Microservices',
+    stat: { value: '$0', label: 'hosting bill' },
+    hook: 'A worldwide disease tracker: Spring Boot services behind a JWT gateway, with a transactional outbox, PostGIS and two levels of caching, all running on free hosting.',
+    chips: ['Java 25', 'Spring Boot 4', 'Next.js 16', 'PostGIS', 'Redis'],
+  },
+  {
+    repo: 'reflex-whoop',
+    kind: 'iOS',
+    stat: { value: 'BLE', label: 'live heart rate' },
+    hook: 'Keeps WHOOP data on your phone: syncs the WHOOP API and reads live heart rate straight from the band over read-only Bluetooth, into an archive that outlives the subscription.',
+    chips: ['Swift', 'SwiftUI', 'Core Bluetooth', 'GRDB'],
+  },
+];

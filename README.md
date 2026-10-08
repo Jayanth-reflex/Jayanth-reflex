@@ -57,56 +57,18 @@ My four best recent fixes sent upstream, most of them found while building my ow
 
 ### Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Things I built end to end. Each card links to its repo; [lastbite has a live demo](https://swiggy-mcp.vercel.app).
 
-**[amd-hackathon-2026](https://github.com/Jayanth-reflex/amd-hackathon-2026)**<br>
-A solo 48-hour fine-tune of Qwen3.6-35B-A3B on one AMD MI300X: LoRA training, merge, abliteration, then a 9-quant GGUF ladder [on Hugging Face](https://huggingface.co/Reflex-jr/Qwen3.6-35B-A3B-Domain-Aggressive-GGUF). Safety policy runs at the application layer with Llama Guard 3.<br>
-<sub>PyTorch · PEFT / LoRA · ROCm · vLLM · Weights & Biases</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[lastbite-swiggy-mcp](https://github.com/Jayanth-reflex/lastbite-swiggy-mcp)**<br>
-Order food from Swiggy in plain English. An agent on Swiggy's MCP server builds the cart, then walks you through three confirmation gates and a 30-second grace timer before anything is placed. [Live demo](https://swiggy-mcp.vercel.app).<br>
-<sub>TypeScript · Next.js · LangGraph · MCP · Redis · Postgres</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[domain-flipper-agent](https://github.com/Jayanth-reflex/domain-flipper-agent)**<br>
-LangGraph agents that read trends from the open web, generate and value domain names, check trademarks and availability, and wait for a human to approve before acting. Each external service sits behind its own MCP server.<br>
-<sub>Python · LangGraph · Claude API · FastMCP · Postgres</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[file-password-remover](https://github.com/Jayanth-reflex/file-password-remover)**<br>
-Removes passwords from PDF, Office, ZIP and 7-Zip files you own, entirely offline, and re-opens every output to verify it before writing. Building it turned up the py7zr hang I fixed upstream.<br>
-<sub>Python · pikepdf · msoffcrypto · py7zr</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[global-health-radar](https://github.com/Jayanth-reflex/global-health-radar)**<br>
-A worldwide disease tracker built as Spring Boot microservices behind a JWT gateway, with a transactional outbox, PostGIS and two levels of caching, running on free hosting.<br>
-<sub>Java 25 · Spring Boot 4 · Next.js 16 · Supabase · Redis</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[reflex-whoop](https://github.com/Jayanth-reflex/reflex-whoop)**<br>
-An iOS app that keeps WHOOP data on your phone: it syncs the WHOOP API and records live heart rate straight from the band over read-only Bluetooth, into an archive that outlives the subscription.<br>
-<sub>Swift · SwiftUI · Core Bluetooth · GRDB (SQLite)</sub>
-
-</td>
-</tr>
-</table>
+<!-- projects:start -->
+<p>
+<a href="https://github.com/Jayanth-reflex/amd-hackathon-2026"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/amd-hackathon-2026-dark.svg"><img alt="amd-hackathon-2026: LLM fine-tune. Fine-tuned Qwen3.6-35B-A3B end to end on one AMD GPU: LoRA, merge and abliteration, shipped as a 9-quant GGUF ladder on Hugging Face. Safety runs at the app layer with Llama Guard 3." src="assets/projects/amd-hackathon-2026-light.svg" width="400"></picture></a>
+<a href="https://github.com/Jayanth-reflex/lastbite-swiggy-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/lastbite-swiggy-mcp-dark.svg"><img alt="lastbite-swiggy-mcp: Agent · MCP. Order food from Swiggy in plain English. The agent builds the cart over Swiggy's MCP server, then three confirmation gates and a 30-second grace timer stand between it and your order." src="assets/projects/lastbite-swiggy-mcp-light.svg" width="400"></picture></a>
+<a href="https://github.com/Jayanth-reflex/domain-flipper-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/domain-flipper-agent-dark.svg"><img alt="domain-flipper-agent: Multi-agent. LangGraph agents read trends from the open web, generate and value domain names, check trademarks and availability, then stop and wait for a human to approve before acting." src="assets/projects/domain-flipper-agent-light.svg" width="400"></picture></a>
+<a href="https://github.com/Jayanth-reflex/file-password-remover"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/file-password-remover-dark.svg"><img alt="file-password-remover: Local-first tool. Strips passwords from PDF, Office, ZIP and 7-Zip files you own, entirely offline, and re-opens every output to verify it before writing. Building it surfaced the py7zr hang I fixed upstream." src="assets/projects/file-password-remover-light.svg" width="400"></picture></a>
+<a href="https://github.com/Jayanth-reflex/global-health-radar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/global-health-radar-dark.svg"><img alt="global-health-radar: Microservices. A worldwide disease tracker: Spring Boot services behind a JWT gateway, with a transactional outbox, PostGIS and two levels of caching, all running on free hosting." src="assets/projects/global-health-radar-light.svg" width="400"></picture></a>
+<a href="https://github.com/Jayanth-reflex/reflex-whoop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/reflex-whoop-dark.svg"><img alt="reflex-whoop: iOS. Keeps WHOOP data on your phone: syncs the WHOOP API and reads live heart rate straight from the band over read-only Bluetooth, into an archive that outlives the subscription." src="assets/projects/reflex-whoop-light.svg" width="400"></picture></a>
+</p>
+<!-- projects:end -->
 
 ### Tech stack
 
