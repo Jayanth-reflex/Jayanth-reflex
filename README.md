@@ -89,5 +89,3 @@ Things I built end to end. Each card links to its repo; [lastbite has a live dem
 I'm open to senior and staff individual-contributor roles in LLM engineering, AI platforms and backend infrastructure. I'm based in Hyderabad and open to remote work or relocation, and I reply to every message within 24 hours.
 
 **[jayanth.sde.fsd@gmail.com](mailto:jayanth.sde.fsd@gmail.com)** · **[LinkedIn](https://linkedin.com/in/jayanth-sde)** · **[Portfolio](https://jayanth-sde.vercel.app)**
-
-<sub>Every card on this page is an SVG drawn by <a href="scripts/build.mjs">scripts/build.mjs</a> and refreshed daily by GitHub Actions. No third-party image services.</sub>
