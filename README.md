@@ -26,9 +26,9 @@ My four best recent fixes sent upstream, most of them found while building my ow
 <!-- oss:start -->
 <p>
 <a href="https://github.com/deepset-ai/haystack/pull/12988"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/deepset-ai-haystack-12988-dark.svg"><img alt="Merged: fix: keep hyperlink addresses in DOCXToDocument table cells (deepset-ai/haystack, 26.7k stars)" src="assets/oss/deepset-ai-haystack-12988-light.svg" width="400"></picture></a>
-<a href="https://github.com/NandhaKishorM/laya/pull/624"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/nandhakishorm-laya-624-dark.svg"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 31.7k stars)" src="assets/oss/nandhakishorm-laya-624-light.svg" width="400"></picture></a>
+<a href="https://github.com/NandhaKishorM/laya/pull/624"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/nandhakishorm-laya-624-dark.svg"><img alt="Merged: fix(serve): set TCP_NODELAY on every accepted connection (NandhaKishorM/laya, 31.8k stars)" src="assets/oss/nandhakishorm-laya-624-light.svg" width="400"></picture></a>
 <a href="https://github.com/koala73/worldmonitor/pull/2455"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/koala73-worldmonitor-2455-dark.svg"><img alt="In review: fix(sanctions): pass timeRange filter to sanctions pressure API (koala73/worldmonitor, 88.1k stars)" src="assets/oss/koala73-worldmonitor-2455-light.svg" width="400"></picture></a>
-<a href="https://github.com/miurahr/py7zr/pull/754"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/miurahr-py7zr-754-dark.svg"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 557 stars)" src="assets/oss/miurahr-py7zr-754-light.svg" width="400"></picture></a>
+<a href="https://github.com/miurahr/py7zr/pull/754"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss/miurahr-py7zr-754-dark.svg"><img alt="In review: Fix infinite loop when compressed data ends early (miurahr/py7zr, 558 stars)" src="assets/oss/miurahr-py7zr-754-light.svg" width="400"></picture></a>
 </p>
 <sub>Top 4 of my most recent upstream pull requests · 2 merged, 2 in review · cards refresh daily from the GitHub API</sub>
 <!-- oss:end -->
