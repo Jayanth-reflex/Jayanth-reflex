@@ -3,7 +3,7 @@
   "totals": {
     "contributions": 541,
     "commits": 486,
-    "automatedExcluded": 467,
+    "automatedExcluded": 471,
     "pullRequests": 19,
     "issues": 5,
     "reviews": 0,
@@ -1486,6 +1486,10 @@
     {
       "date": "2026-10-15",
       "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "count": 0
     }
   ],
   "languages": [
@@ -1534,7 +1538,7 @@
     {
       "repo": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 213584,
+      "stars": 214016,
       "owner": "anomalyco",
       "title": "fix(core): skip tool-less models in default model fallback",
       "url": "https://github.com/anomalyco/opencode/pull/54139",
@@ -1548,7 +1552,7 @@
     {
       "repo": "BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "stars": 61281,
+      "stars": 61356,
       "owner": "BerriAI",
       "title": "fix(alerting): send one budget alert when concurrent checks hit the same budget event",
       "url": "https://github.com/BerriAI/litellm/pull/45581",
@@ -1562,7 +1566,7 @@
     {
       "repo": "NandhaKishorM/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "stars": 32941,
+      "stars": 33078,
       "owner": "NandhaKishorM",
       "title": "fix(serve): set TCP_NODELAY on every accepted connection",
       "url": "https://github.com/NandhaKishorM/laya/pull/624",
@@ -1590,7 +1594,7 @@
     {
       "repo": "miurahr/py7zr",
       "description": "7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.",
-      "stars": 557,
+      "stars": 558,
       "owner": "miurahr",
       "title": "Fix infinite loop when compressed data ends early",
       "url": "https://github.com/miurahr/py7zr/pull/754",
@@ -1604,7 +1608,7 @@
     {
       "repo": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 88473,
+      "stars": 88526,
       "owner": "koala73",
       "title": "fix(sanctions): pass timeRange filter to sanctions pressure API",
       "url": "https://github.com/koala73/worldmonitor/pull/2455",
