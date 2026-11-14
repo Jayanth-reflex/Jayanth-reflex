@@ -3,7 +3,7 @@
   "totals": {
     "contributions": 541,
     "commits": 486,
-    "automatedExcluded": 569,
+    "automatedExcluded": 572,
     "pullRequests": 19,
     "issues": 5,
     "reviews": 0,
@@ -1490,6 +1490,10 @@
     {
       "date": "2026-11-13",
       "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "count": 0
     }
   ],
   "languages": [
@@ -1538,7 +1542,7 @@
     {
       "repo": "BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "stars": 63205,
+      "stars": 63236,
       "owner": "BerriAI",
       "title": "fix(alerting): send one budget alert when concurrent checks hit the same budget event",
       "url": "https://github.com/BerriAI/litellm/pull/45581",
@@ -1552,7 +1556,7 @@
     {
       "repo": "NandhaKishorM/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "stars": 35480,
+      "stars": 35516,
       "owner": "NandhaKishorM",
       "title": "fix(serve): set TCP_NODELAY on every accepted connection",
       "url": "https://github.com/NandhaKishorM/laya/pull/624",
@@ -1566,7 +1570,7 @@
     {
       "repo": "deepset-ai/haystack",
       "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
-      "stars": 27001,
+      "stars": 27004,
       "owner": "deepset-ai",
       "title": "fix: keep hyperlink addresses in DOCXToDocument table cells",
       "url": "https://github.com/deepset-ai/haystack/pull/12988",
@@ -1594,7 +1598,7 @@
     {
       "repo": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 90557,
+      "stars": 90614,
       "owner": "koala73",
       "title": "fix(sanctions): pass timeRange filter to sanctions pressure API",
       "url": "https://github.com/koala73/worldmonitor/pull/2455",
